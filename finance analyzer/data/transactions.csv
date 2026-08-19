@@ -1,0 +1,1506 @@
+id,date,category,description,amount,payment_method,location
+712,2025-01-01,Shopping,Clothing,17210.12,Online,Islamabad
+1254,2025-01-01,Food,Coffee,440.46,Bank Transfer,Rawalpindi
+447,2025-01-02,Entertainment,Events,3068.16,Cash,Dubai
+1003,2025-01-02,Transport,Parking,1139.9,Bank Transfer,Dubai
+439,2025-01-03,Transport,Parking,833.42,Bank Transfer,Karachi
+339,2025-01-04,Entertainment,Movies,725.22,Bank Transfer,Karachi
+956,2025-01-04,Travel,Travel Transport,3220.91,Card,Dubai
+580,2025-01-05,Entertainment,Games,6832.78,Bank Transfer,Islamabad
+623,2025-01-05,Food,Coffee,842.3,Online,Dubai
+76,2025-01-06,Transport,Parking,521.8,Online,Karachi
+859,2025-01-06,Travel,Flight,40874.5,Online,Rawalpindi
+997,2025-01-06,Education,Books,1294.31,Online,Dubai
+395,2025-01-07,Education,Stationery,2020.68,Online,Islamabad
+479,2025-01-07,Education,Books,2415.65,Bank Transfer,Karachi
+654,2025-01-07,Transport,Ride Share,1479.04,Card,Islamabad
+683,2025-01-07,Shopping,Online Shopping,6011.13,Card,Dubai
+726,2025-01-07,Food,Coffee,493.5,Bank Transfer,Rawalpindi
+975,2025-01-07,Food,Grocery,9347.97,Bank Transfer,Rawalpindi
+1397,2025-01-07,Shopping,Online Shopping,1308.78,Card,Rawalpindi
+560,2025-01-09,Entertainment,Streaming,1437.94,Bank Transfer,Islamabad
+766,2025-01-09,Entertainment,Movies,910.81,Online,Lahore
+323,2025-01-10,Bills,Electricity,20006.8,Bank Transfer,Islamabad
+376,2025-01-10,Shopping,Clothing,8098.6,Online,Islamabad
+599,2025-01-10,Shopping,Electronics,26466.21,Online,Dubai
+645,2025-01-10,Transport,Public Transport,357.77,Cash,Karachi
+406,2025-01-11,Transport,Public Transport,274.52,Cash,Rawalpindi
+1283,2025-01-11,Travel,Travel Transport,3341.72,Online,Dubai
+1297,2025-01-11,Transport,Public Transport,164.17,Card,Lahore
+1462,2025-01-11,Transport,Parking,1342.01,Cash,Rawalpindi
+330,2025-01-12,Bills,Phone Bill,3118.7,Card,Karachi
+919,2025-01-12,Transport,Ride Share,741.75,Online,Rawalpindi
+927,2025-01-12,Travel,Travel Transport,3557.35,Online,Dubai
+390,2025-01-13,Bills,Utilities,5028.88,Card,Dubai
+466,2025-01-13,Shopping,Clothing,5033.97,Bank Transfer,Dubai
+493,2025-01-13,Food,Grocery,2700.09,Online,Islamabad
+944,2025-01-13,Education,Books,3615.16,Online,Islamabad
+1386,2025-01-14,Health,Fitness,3071.4,Online,Rawalpindi
+1474,2025-01-15,Entertainment,Movies,1592.69,Bank Transfer,Lahore
+181,2025-01-16,Health,Doctor,5103.26,Card,Lahore
+1361,2025-01-16,Education,Stationery,267.97,Cash,Rawalpindi
+347,2025-01-17,Entertainment,Games,2509.91,Card,Rawalpindi
+364,2025-01-17,Bills,Utilities,4520.18,Cash,Islamabad
+801,2025-01-17,Shopping,Home Supplies,907.42,Cash,Lahore
+106,2025-01-18,Transport,Public Transport,274.36,Cash,Islamabad
+371,2025-01-18,Bills,Phone Bill,1277.13,Online,Lahore
+1411,2025-01-18,Health,Pharmacy,5156.67,Bank Transfer,Rawalpindi
+785,2025-01-20,Health,Doctor,3705.79,Card,Dubai
+1058,2025-01-20,Travel,Travel Transport,1318.32,Card,Karachi
+93,2025-01-21,Shopping,Electronics,17475.56,Card,Dubai
+741,2025-01-21,Education,Books,2873.52,Cash,Dubai
+1446,2025-01-21,Education,Education Fees,11020.74,Card,Lahore
+1119,2025-01-22,Food,Restaurant,2461.3,Cash,Islamabad
+511,2025-01-23,Shopping,Electronics,48964.5,Bank Transfer,Karachi
+765,2025-01-23,Shopping,Clothing,6137.46,Cash,Rawalpindi
+828,2025-01-23,Food,Grocery,9279.44,Bank Transfer,Islamabad
+1094,2025-01-23,Health,Fitness,3662.87,Bank Transfer,Dubai
+344,2025-01-24,Bills,Utilities,6909.07,Online,Dubai
+1031,2025-01-24,Transport,Parking,873.14,Card,Dubai
+1241,2025-01-24,Health,Fitness,2348.9,Card,Dubai
+1372,2025-01-25,Entertainment,Streaming,1124.16,Cash,Dubai
+408,2025-01-26,Travel,Hotel,17949.11,Card,Karachi
+1029,2025-01-26,Education,Courses,8315.68,Card,Islamabad
+1274,2025-01-26,Entertainment,Events,12558.96,Cash,Lahore
+389,2025-01-27,Transport,Public Transport,403.43,Bank Transfer,Rawalpindi
+1409,2025-01-27,Transport,Public Transport,668.6,Cash,Islamabad
+400,2025-01-28,Travel,Flight,53235.15,Bank Transfer,Karachi
+931,2025-01-28,Bills,Utilities,3095.96,Card,Islamabad
+1245,2025-01-28,Food,Fast Food,1008.8,Bank Transfer,Lahore
+507,2025-01-29,Health,Doctor,4952.28,Cash,Rawalpindi
+719,2025-01-29,Travel,Hotel,17090.65,Online,Lahore
+1126,2025-01-29,Food,Grocery,6065.65,Cash,Karachi
+87,2025-01-30,Education,Stationery,1584.01,Online,Lahore
+135,2025-01-30,Entertainment,Games,4250.97,Card,Dubai
+415,2025-01-30,Entertainment,Events,7413.94,Online,Karachi
+1138,2025-01-30,Bills,Phone Bill,2027.12,Online,Lahore
+468,2025-01-31,Health,Fitness,2655.77,Card,Islamabad
+831,2025-01-31,Bills,Internet,3427.46,Online,Lahore
+1299,2025-01-31,Entertainment,Games,4102.59,Cash,Islamabad
+185,2025-02-01,Food,Coffee,851.84,Online,Karachi
+1261,2025-02-01,Travel,Hotel,19286.26,Online,Dubai
+789,2025-02-02,Entertainment,Movies,1282.57,Card,Karachi
+1195,2025-02-02,Transport,Public Transport,351.81,Cash,Karachi
+121,2025-02-03,Entertainment,Streaming,1581.32,Online,Karachi
+427,2025-02-03,Bills,Internet,4403.53,Cash,Rawalpindi
+842,2025-02-03,Education,Books,6262.22,Online,Lahore
+1004,2025-02-03,Bills,Utilities,7571.03,Cash,Karachi
+1226,2025-02-03,Shopping,Home Supplies,7744.32,Card,Dubai
+368,2025-02-04,Transport,Ride Share,1593.78,Online,Lahore
+711,2025-02-04,Entertainment,Games,6670.93,Bank Transfer,Lahore
+998,2025-02-04,Education,Education Fees,22445.96,Card,Rawalpindi
+1440,2025-02-04,Transport,Fuel,5056.73,Bank Transfer,Dubai
+1391,2025-02-05,Health,Pharmacy,3339.74,Cash,Islamabad
+55,2025-02-06,Health,Doctor,4233.3,Card,Islamabad
+473,2025-02-06,Education,Courses,7072.45,Online,Islamabad
+1480,2025-02-06,Travel,Travel Transport,1451.62,Card,Dubai
+131,2025-02-07,Travel,Hotel,18386.17,Bank Transfer,Karachi
+964,2025-02-07,Health,Pharmacy,2063.93,Card,Rawalpindi
+1109,2025-02-07,Entertainment,Games,4039.65,Card,Islamabad
+1311,2025-02-07,Entertainment,Games,8973.84,Online,Lahore
+321,2025-02-08,Shopping,Online Shopping,17953.53,Cash,Karachi
+803,2025-02-08,Travel,Travel Food,2881.62,Bank Transfer,Islamabad
+924,2025-02-08,Travel,Travel Food,2602.05,Online,Karachi
+955,2025-02-08,Education,Stationery,697.5,Bank Transfer,Rawalpindi
+1370,2025-02-08,Entertainment,Events,8934.01,Bank Transfer,Lahore
+60,2025-02-09,Travel,Flight,39820.99,Online,Islamabad
+1388,2025-02-09,Transport,Parking,1212.62,Cash,Lahore
+1497,2025-02-09,Bills,Internet,5983.27,Online,Karachi
+44,2025-02-10,Transport,Parking,854.32,Bank Transfer,Islamabad
+358,2025-02-10,Transport,Fuel,7187.23,Cash,Rawalpindi
+781,2025-02-10,Travel,Travel Transport,3773.95,Online,Lahore
+127,2025-02-11,Shopping,Online Shopping,10758.02,Online,Islamabad
+299,2025-02-11,Food,Restaurant,1026.21,Bank Transfer,Rawalpindi
+1166,2025-02-11,Health,Fitness,4104.02,Cash,Rawalpindi
+429,2025-02-12,Travel,Flight,110991.1,Card,Lahore
+659,2025-02-12,Food,Coffee,593.86,Card,Islamabad
+845,2025-02-12,Education,Stationery,1084.66,Card,Dubai
+1199,2025-02-12,Transport,Fuel,6128.57,Cash,Islamabad
+314,2025-02-13,Bills,Electricity,9907.64,Online,Islamabad
+496,2025-02-13,Travel,Hotel,14759.6,Online,Rawalpindi
+144,2025-02-14,Health,Fitness,4235.86,Online,Rawalpindi
+234,2025-02-14,Education,Stationery,1600.11,Cash,Rawalpindi
+1158,2025-02-14,Travel,Travel Food,8248.84,Cash,Lahore
+53,2025-02-15,Food,Fast Food,1586.62,Bank Transfer,Lahore
+66,2025-02-15,Education,Books,3590.55,Cash,Islamabad
+405,2025-02-15,Education,Stationery,2544.38,Online,Karachi
+1453,2025-02-15,Entertainment,Movies,958.96,Bank Transfer,Lahore
+112,2025-02-16,Food,Fast Food,1449.8,Cash,Rawalpindi
+295,2025-02-16,Education,Books,3828.24,Cash,Islamabad
+619,2025-02-16,Shopping,Online Shopping,5599.04,Online,Karachi
+74,2025-02-17,Entertainment,Events,7593.45,Card,Rawalpindi
+378,2025-02-17,Transport,Public Transport,611.52,Card,Lahore
+472,2025-02-17,Travel,Travel Food,4001.28,Cash,Lahore
+1197,2025-02-17,Bills,Internet,5538.05,Card,Karachi
+348,2025-02-19,Entertainment,Movies,1187.95,Cash,Dubai
+1159,2025-02-19,Bills,Phone Bill,3475.09,Card,Dubai
+317,2025-02-21,Entertainment,Games,2333.57,Online,Islamabad
+641,2025-02-22,Bills,Utilities,7916.24,Bank Transfer,Karachi
+856,2025-02-22,Education,Stationery,955.25,Online,Islamabad
+238,2025-02-23,Travel,Travel Food,4903.02,Card,Dubai
+1282,2025-02-23,Bills,Utilities,5108.38,Online,Lahore
+424,2025-02-24,Health,Pharmacy,2527.76,Cash,Rawalpindi
+981,2025-02-24,Entertainment,Movies,1734.65,Online,Rawalpindi
+528,2025-02-25,Health,Pharmacy,2340.78,Bank Transfer,Dubai
+662,2025-02-25,Travel,Hotel,17840.58,Card,Islamabad
+1373,2025-02-25,Entertainment,Games,6156.58,Online,Dubai
+1030,2025-02-26,Entertainment,Games,7634.84,Bank Transfer,Lahore
+1111,2025-02-26,Transport,Public Transport,425.09,Card,Rawalpindi
+13,2025-02-27,Entertainment,Movies,1750.69,Online,Islamabad
+807,2025-02-27,Health,Dental,14557.43,Online,Rawalpindi
+1086,2025-02-27,Education,Stationery,1250.79,Online,Dubai
+1090,2025-02-27,Entertainment,Games,3819.4,Bank Transfer,Dubai
+1438,2025-02-27,Transport,Public Transport,704.52,Cash,Karachi
+1334,2025-02-28,Health,Pharmacy,1550.25,Online,Rawalpindi
+1472,2025-02-28,Transport,Public Transport,403.4,Online,Karachi
+41,2025-03-01,Food,Fast Food,534.66,Online,Dubai
+338,2025-03-01,Travel,Travel Food,5982.75,Online,Islamabad
+576,2025-03-01,Food,Coffee,440.58,Cash,Dubai
+1046,2025-03-01,Shopping,Home Supplies,4082.11,Cash,Islamabad
+1209,2025-03-01,Bills,Utilities,5110.22,Bank Transfer,Islamabad
+1390,2025-03-01,Education,Education Fees,30368.35,Cash,Rawalpindi
+370,2025-03-03,Travel,Travel Transport,997.77,Online,Karachi
+1104,2025-03-03,Entertainment,Streaming,1255.8,Cash,Lahore
+34,2025-03-04,Education,Stationery,1901.16,Card,Lahore
+792,2025-03-04,Health,Fitness,4852.19,Card,Dubai
+1208,2025-03-04,Education,Books,4290.17,Cash,Dubai
+1404,2025-03-04,Bills,Electricity,14200.53,Card,Karachi
+484,2025-03-05,Education,Courses,6263.38,Bank Transfer,Islamabad
+534,2025-03-05,Shopping,Clothing,4056.07,Bank Transfer,Dubai
+632,2025-03-05,Bills,Internet,5104.58,Card,Islamabad
+950,2025-03-05,Education,Education Fees,18807.22,Card,Islamabad
+1424,2025-03-05,Entertainment,Events,13313.69,Bank Transfer,Islamabad
+1330,2025-03-07,Education,Courses,8623.48,Bank Transfer,Dubai
+115,2025-03-08,Education,Education Fees,11481.09,Card,Lahore
+272,2025-03-08,Bills,Phone Bill,3691.45,Cash,Islamabad
+582,2025-03-08,Food,Fast Food,2066.58,Online,Dubai
+1308,2025-03-08,Shopping,Online Shopping,14759.7,Bank Transfer,Rawalpindi
+1420,2025-03-08,Health,Fitness,5474.07,Online,Dubai
+14,2025-03-09,Entertainment,Streaming,988.0,Online,Rawalpindi
+879,2025-03-09,Shopping,Home Supplies,6783.05,Bank Transfer,Rawalpindi
+905,2025-03-09,Health,Doctor,6705.7,Online,Rawalpindi
+1060,2025-03-09,Bills,Electricity,15751.52,Card,Dubai
+192,2025-03-10,Transport,Ride Share,655.45,Card,Islamabad
+411,2025-03-10,Bills,Electricity,16866.96,Card,Karachi
+540,2025-03-10,Transport,Parking,765.28,Bank Transfer,Islamabad
+1007,2025-03-10,Entertainment,Games,10721.97,Cash,Dubai
+1044,2025-03-10,Health,Fitness,3644.36,Bank Transfer,Rawalpindi
+1363,2025-03-10,Entertainment,Events,5071.88,Online,Karachi
+30,2025-03-11,Food,Fast Food,566.92,Cash,Islamabad
+460,2025-03-11,Food,Fast Food,803.01,Card,Rawalpindi
+1063,2025-03-11,Transport,Ride Share,1218.63,Cash,Islamabad
+1366,2025-03-11,Health,Pharmacy,2973.86,Online,Rawalpindi
+43,2025-03-12,Transport,Fuel,5086.03,Cash,Dubai
+98,2025-03-12,Health,Pharmacy,4124.14,Online,Karachi
+1071,2025-03-13,Travel,Travel Food,3016.55,Online,Karachi
+1375,2025-03-13,Entertainment,Movies,1473.83,Cash,Lahore
+458,2025-03-14,Food,Fast Food,2009.24,Cash,Rawalpindi
+652,2025-03-14,Entertainment,Streaming,1193.85,Online,Rawalpindi
+791,2025-03-14,Food,Grocery,6274.66,Card,Rawalpindi
+1319,2025-03-15,Health,Pharmacy,2741.21,Bank Transfer,Lahore
+1501,2025-03-15,Shopping,Electronics,185000.0,Card,Karachi
+219,2025-03-17,Bills,Utilities,5404.01,Card,Islamabad
+120,2025-03-18,Shopping,Clothing,7232.35,Online,Islamabad
+524,2025-03-18,Transport,Public Transport,421.55,Online,Karachi
+1476,2025-03-18,Health,Doctor,4674.41,Card,Rawalpindi
+469,2025-03-20,Travel,Travel Transport,3548.78,Card,Rawalpindi
+671,2025-03-20,Transport,Ride Share,1776.01,Card,Dubai
+1013,2025-03-20,Transport,Fuel,4584.73,Cash,Rawalpindi
+517,2025-03-21,Entertainment,Streaming,2274.73,Cash,Karachi
+681,2025-03-21,Bills,Utilities,10527.2,Cash,Dubai
+1352,2025-03-21,Food,Fast Food,716.46,Bank Transfer,Lahore
+213,2025-03-22,Education,Stationery,1759.35,Cash,Islamabad
+743,2025-03-22,Education,Stationery,1198.03,Cash,Lahore
+897,2025-03-22,Travel,Flight,31936.12,Online,Karachi
+761,2025-03-23,Education,Courses,9085.93,Bank Transfer,Islamabad
+1402,2025-03-23,Bills,Electricity,10274.2,Bank Transfer,Karachi
+227,2025-03-25,Shopping,Home Supplies,3305.14,Online,Lahore
+530,2025-03-25,Travel,Hotel,18244.36,Online,Rawalpindi
+670,2025-03-25,Bills,Internet,5741.08,Cash,Islamabad
+699,2025-03-27,Bills,Utilities,4321.07,Card,Karachi
+228,2025-03-28,Bills,Utilities,6680.27,Bank Transfer,Lahore
+420,2025-03-28,Shopping,Home Supplies,2225.79,Bank Transfer,Karachi
+494,2025-03-28,Bills,Electricity,4718.83,Card,Lahore
+935,2025-03-28,Shopping,Electronics,53671.21,Online,Rawalpindi
+1091,2025-03-28,Transport,Public Transport,225.32,Cash,Karachi
+404,2025-03-29,Transport,Fuel,6276.14,Bank Transfer,Lahore
+854,2025-03-29,Education,Courses,7626.4,Online,Karachi
+656,2025-03-30,Bills,Utilities,4992.62,Card,Rawalpindi
+947,2025-03-30,Shopping,Online Shopping,12963.18,Cash,Karachi
+1037,2025-03-30,Shopping,Electronics,25461.73,Bank Transfer,Karachi
+388,2025-03-31,Shopping,Online Shopping,9755.3,Online,Karachi
+500,2025-03-31,Bills,Utilities,3558.27,Cash,Dubai
+651,2025-03-31,Transport,Ride Share,791.14,Bank Transfer,Dubai
+832,2025-03-31,Education,Courses,8017.48,Cash,Rawalpindi
+863,2025-03-31,Food,Restaurant,1701.02,Cash,Lahore
+888,2025-03-31,Health,Fitness,5305.21,Card,Dubai
+1035,2025-03-31,Entertainment,Events,8960.5,Online,Rawalpindi
+1178,2025-03-31,Shopping,Electronics,7799.55,Card,Karachi
+1236,2025-04-01,Shopping,Clothing,8840.44,Bank Transfer,Dubai
+550,2025-04-02,Entertainment,Events,4406.04,Online,Rawalpindi
+816,2025-04-02,Transport,Parking,662.48,Bank Transfer,Lahore
+1161,2025-04-02,Food,Grocery,2956.36,Online,Islamabad
+1256,2025-04-02,Education,Books,5379.92,Bank Transfer,Rawalpindi
+150,2025-04-03,Education,Books,4884.71,Card,Rawalpindi
+959,2025-04-03,Health,Dental,4276.72,Online,Islamabad
+1471,2025-04-03,Transport,Ride Share,1529.92,Card,Lahore
+490,2025-04-04,Entertainment,Streaming,1181.36,Card,Islamabad
+1356,2025-04-04,Food,Coffee,242.88,Card,Islamabad
+6,2025-04-05,Education,Books,2904.77,Bank Transfer,Dubai
+946,2025-04-05,Food,Grocery,9828.72,Card,Karachi
+1099,2025-04-05,Transport,Public Transport,293.66,Online,Rawalpindi
+1221,2025-04-05,Food,Coffee,902.51,Online,Lahore
+375,2025-04-06,Education,Education Fees,19865.52,Online,Karachi
+865,2025-04-06,Bills,Phone Bill,2302.95,Online,Karachi
+1444,2025-04-07,Shopping,Online Shopping,10252.25,Online,Islamabad
+377,2025-04-08,Food,Grocery,3297.99,Online,Islamabad
+749,2025-04-08,Transport,Parking,758.74,Card,Rawalpindi
+1141,2025-04-08,Food,Restaurant,1505.96,Cash,Rawalpindi
+694,2025-04-09,Shopping,Online Shopping,18558.89,Card,Dubai
+1089,2025-04-10,Education,Stationery,2779.16,Online,Islamabad
+663,2025-04-11,Entertainment,Events,12384.91,Bank Transfer,Lahore
+1095,2025-04-11,Travel,Hotel,28769.82,Cash,Islamabad
+173,2025-04-12,Travel,Travel Transport,6428.9,Bank Transfer,Karachi
+175,2025-04-12,Health,Dental,3908.84,Bank Transfer,Lahore
+1078,2025-04-12,Food,Restaurant,1903.17,Card,Lahore
+505,2025-04-13,Entertainment,Games,4004.98,Card,Lahore
+974,2025-04-13,Education,Courses,2723.87,Online,Karachi
+1351,2025-04-13,Shopping,Home Supplies,2271.24,Online,Lahore
+1284,2025-04-14,Health,Pharmacy,2426.39,Bank Transfer,Dubai
+417,2025-04-15,Shopping,Home Supplies,3382.03,Online,Karachi
+1073,2025-04-15,Shopping,Clothing,6831.94,Cash,Islamabad
+113,2025-04-16,Food,Fast Food,1109.3,Online,Islamabad
+450,2025-04-16,Health,Dental,14584.59,Cash,Rawalpindi
+1354,2025-04-16,Education,Stationery,1165.12,Card,Karachi
+603,2025-04-17,Education,Education Fees,33020.66,Online,Lahore
+984,2025-04-17,Food,Grocery,2919.18,Card,Rawalpindi
+523,2025-04-18,Transport,Public Transport,252.77,Online,Lahore
+1463,2025-04-18,Transport,Fuel,5620.76,Bank Transfer,Dubai
+895,2025-04-19,Education,Books,1664.64,Online,Lahore
+953,2025-04-19,Travel,Travel Food,2530.54,Card,Karachi
+372,2025-04-20,Transport,Fuel,4448.14,Bank Transfer,Islamabad
+779,2025-04-20,Shopping,Online Shopping,6976.88,Bank Transfer,Rawalpindi
+693,2025-04-22,Food,Grocery,5258.53,Online,Lahore
+846,2025-04-22,Travel,Travel Transport,5353.1,Card,Lahore
+306,2025-04-23,Entertainment,Movies,1231.22,Online,Lahore
+987,2025-04-23,Health,Doctor,2491.34,Online,Lahore
+1085,2025-04-23,Travel,Travel Transport,3392.87,Cash,Dubai
+1400,2025-04-23,Travel,Flight,38938.77,Card,Lahore
+1460,2025-04-23,Education,Books,2788.38,Card,Islamabad
+247,2025-04-24,Travel,Hotel,26835.16,Cash,Lahore
+1302,2025-04-24,Health,Doctor,3633.83,Cash,Islamabad
+1,2025-04-25,Food,Fast Food,839.18,Cash,Karachi
+20,2025-04-25,Bills,Utilities,3709.6,Card,Islamabad
+335,2025-04-25,Food,Grocery,5621.34,Cash,Lahore
+883,2025-04-25,Health,Pharmacy,3720.06,Card,Rawalpindi
+933,2025-04-25,Shopping,Electronics,41855.23,Bank Transfer,Lahore
+1113,2025-04-25,Transport,Public Transport,378.51,Card,Lahore
+1422,2025-04-25,Transport,Public Transport,497.47,Cash,Karachi
+1028,2025-04-26,Travel,Hotel,13891.18,Card,Islamabad
+204,2025-04-27,Health,Fitness,2057.25,Online,Dubai
+419,2025-04-27,Health,Dental,13830.11,Cash,Islamabad
+1008,2025-04-27,Travel,Flight,75735.92,Cash,Islamabad
+95,2025-04-28,Shopping,Home Supplies,2152.77,Card,Islamabad
+189,2025-04-28,Entertainment,Events,6202.47,Cash,Rawalpindi
+1348,2025-04-28,Shopping,Home Supplies,5371.37,Online,Rawalpindi
+471,2025-04-29,Entertainment,Movies,722.09,Card,Lahore
+588,2025-04-29,Education,Education Fees,19940.23,Bank Transfer,Rawalpindi
+1151,2025-04-29,Travel,Hotel,21464.68,Online,Rawalpindi
+1176,2025-04-30,Food,Grocery,6275.09,Online,Rawalpindi
+1187,2025-04-30,Travel,Travel Food,4327.82,Online,Karachi
+1393,2025-04-30,Transport,Parking,643.89,Card,Dubai
+137,2025-05-01,Shopping,Online Shopping,19671.06,Bank Transfer,Dubai
+431,2025-05-01,Entertainment,Games,7939.02,Bank Transfer,Dubai
+572,2025-05-01,Travel,Hotel,36042.98,Card,Rawalpindi
+591,2025-05-01,Bills,Electricity,16339.35,Online,Lahore
+891,2025-05-01,Bills,Internet,3444.99,Card,Karachi
+1134,2025-05-01,Food,Coffee,775.85,Online,Rawalpindi
+1439,2025-05-01,Health,Fitness,6114.18,Online,Lahore
+1447,2025-05-01,Shopping,Electronics,5972.96,Online,Islamabad
+343,2025-05-02,Shopping,Online Shopping,10905.01,Cash,Karachi
+613,2025-05-02,Travel,Hotel,12628.81,Online,Karachi
+685,2025-05-02,Entertainment,Events,9837.9,Card,Rawalpindi
+965,2025-05-02,Entertainment,Events,12092.33,Cash,Dubai
+1135,2025-05-02,Entertainment,Games,3540.79,Bank Transfer,Islamabad
+1045,2025-05-03,Health,Pharmacy,4097.55,Cash,Dubai
+730,2025-05-04,Travel,Travel Food,5742.63,Card,Lahore
+808,2025-05-04,Entertainment,Movies,1473.16,Online,Karachi
+971,2025-05-04,Shopping,Home Supplies,6739.79,Cash,Karachi
+1360,2025-05-04,Entertainment,Games,2894.04,Bank Transfer,Lahore
+313,2025-05-05,Education,Education Fees,33727.15,Cash,Islamabad
+176,2025-05-06,Travel,Hotel,27826.07,Card,Karachi
+1114,2025-05-06,Health,Dental,13572.23,Online,Lahore
+1448,2025-05-06,Food,Grocery,5639.12,Cash,Karachi
+622,2025-05-07,Travel,Travel Transport,4280.79,Cash,Rawalpindi
+1237,2025-05-07,Transport,Fuel,8652.53,Card,Dubai
+1428,2025-05-07,Bills,Utilities,6588.43,Cash,Rawalpindi
+239,2025-05-08,Bills,Electricity,15914.35,Bank Transfer,Rawalpindi
+443,2025-05-08,Shopping,Online Shopping,9861.8,Online,Lahore
+1376,2025-05-09,Transport,Fuel,5938.17,Cash,Lahore
+1445,2025-05-09,Transport,Public Transport,193.34,Cash,Rawalpindi
+265,2025-05-10,Transport,Fuel,7004.98,Bank Transfer,Islamabad
+752,2025-05-10,Shopping,Electronics,9887.07,Bank Transfer,Islamabad
+1425,2025-05-10,Entertainment,Movies,1180.34,Online,Islamabad
+1491,2025-05-10,Shopping,Home Supplies,4300.01,Cash,Karachi
+69,2025-05-11,Entertainment,Events,8123.58,Online,Lahore
+902,2025-05-11,Transport,Parking,1028.83,Card,Islamabad
+1288,2025-05-11,Bills,Utilities,5783.24,Bank Transfer,Islamabad
+1268,2025-05-12,Transport,Fuel,4522.15,Cash,Dubai
+208,2025-05-13,Education,Courses,8902.91,Bank Transfer,Karachi
+581,2025-05-13,Transport,Parking,722.61,Bank Transfer,Lahore
+1192,2025-05-13,Shopping,Electronics,19109.01,Online,Karachi
+193,2025-05-14,Food,Fast Food,1403.28,Online,Islamabad
+287,2025-05-14,Health,Pharmacy,2009.04,Online,Karachi
+838,2025-05-15,Shopping,Clothing,11176.14,Bank Transfer,Dubai
+1054,2025-05-15,Food,Coffee,480.7,Bank Transfer,Lahore
+1163,2025-05-15,Health,Pharmacy,4017.89,Cash,Rawalpindi
+444,2025-05-16,Bills,Internet,5646.89,Bank Transfer,Karachi
+449,2025-05-16,Travel,Hotel,16393.55,Card,Karachi
+628,2025-05-16,Shopping,Home Supplies,5661.65,Bank Transfer,Dubai
+812,2025-05-16,Health,Pharmacy,2498.4,Card,Dubai
+1145,2025-05-16,Transport,Public Transport,480.28,Online,Lahore
+451,2025-05-17,Shopping,Clothing,8406.79,Card,Dubai
+1259,2025-05-17,Food,Coffee,186.35,Card,Lahore
+1365,2025-05-17,Health,Doctor,5388.47,Bank Transfer,Rawalpindi
+1454,2025-05-18,Entertainment,Streaming,1057.39,Online,Karachi
+254,2025-05-19,Transport,Parking,332.29,Cash,Karachi
+814,2025-05-19,Travel,Flight,56239.84,Cash,Dubai
+763,2025-05-20,Bills,Electricity,13751.19,Online,Islamabad
+920,2025-05-20,Transport,Fuel,6193.54,Online,Rawalpindi
+992,2025-05-20,Transport,Parking,688.33,Cash,Islamabad
+308,2025-05-22,Entertainment,Streaming,2426.47,Online,Dubai
+422,2025-05-22,Education,Education Fees,15262.67,Cash,Dubai
+1321,2025-05-22,Bills,Electricity,16048.81,Bank Transfer,Islamabad
+1326,2025-05-23,Shopping,Home Supplies,8081.44,Card,Rawalpindi
+328,2025-05-24,Travel,Travel Food,8065.4,Card,Islamabad
+367,2025-05-24,Travel,Flight,94316.3,Card,Dubai
+566,2025-05-24,Food,Coffee,1155.18,Bank Transfer,Rawalpindi
+962,2025-05-24,Food,Grocery,1469.15,Cash,Rawalpindi
+1350,2025-05-24,Travel,Travel Food,6960.25,Cash,Karachi
+893,2025-05-25,Bills,Internet,3485.46,Bank Transfer,Dubai
+409,2025-05-26,Health,Dental,7276.73,Cash,Dubai
+850,2025-05-26,Travel,Travel Transport,1693.5,Card,Lahore
+925,2025-05-26,Bills,Utilities,5807.7,Card,Lahore
+286,2025-05-28,Health,Dental,11906.89,Bank Transfer,Rawalpindi
+1304,2025-05-28,Shopping,Electronics,20838.55,Online,Islamabad
+707,2025-05-29,Travel,Travel Transport,1678.23,Bank Transfer,Lahore
+835,2025-05-29,Shopping,Home Supplies,1809.07,Card,Lahore
+1426,2025-05-29,Bills,Internet,4299.55,Online,Lahore
+1436,2025-05-29,Entertainment,Games,7871.53,Cash,Karachi
+1062,2025-05-30,Bills,Phone Bill,2268.22,Cash,Dubai
+179,2025-06-01,Food,Fast Food,1781.59,Cash,Lahore
+187,2025-06-01,Transport,Fuel,4581.23,Bank Transfer,Rawalpindi
+820,2025-06-01,Bills,Electricity,9871.99,Card,Islamabad
+1020,2025-06-01,Health,Dental,8421.11,Cash,Dubai
+116,2025-06-02,Bills,Electricity,23544.18,Card,Dubai
+565,2025-06-03,Entertainment,Movies,1751.43,Online,Islamabad
+82,2025-06-04,Entertainment,Events,8428.11,Cash,Karachi
+574,2025-06-04,Shopping,Electronics,27027.71,Online,Lahore
+1014,2025-06-04,Entertainment,Movies,1073.23,Cash,Rawalpindi
+1149,2025-06-04,Travel,Hotel,15349.76,Card,Lahore
+145,2025-06-05,Travel,Hotel,13460.59,Bank Transfer,Karachi
+333,2025-06-06,Travel,Travel Food,4163.23,Online,Dubai
+589,2025-06-06,Entertainment,Movies,1081.27,Card,Dubai
+666,2025-06-06,Health,Dental,16808.25,Cash,Karachi
+386,2025-06-07,Education,Stationery,1032.49,Card,Karachi
+402,2025-06-07,Education,Education Fees,11475.97,Online,Dubai
+1162,2025-06-07,Transport,Public Transport,376.17,Online,Islamabad
+1201,2025-06-07,Health,Dental,13324.49,Card,Lahore
+1329,2025-06-07,Health,Fitness,6283.1,Cash,Rawalpindi
+147,2025-06-08,Transport,Parking,984.4,Bank Transfer,Islamabad
+777,2025-06-08,Health,Pharmacy,1804.22,Online,Karachi
+202,2025-06-09,Shopping,Clothing,10005.71,Bank Transfer,Rawalpindi
+1484,2025-06-09,Bills,Internet,4222.01,Bank Transfer,Islamabad
+609,2025-06-10,Travel,Travel Transport,5700.29,Card,Rawalpindi
+657,2025-06-10,Entertainment,Games,7302.89,Bank Transfer,Lahore
+1200,2025-06-10,Bills,Utilities,7653.13,Online,Karachi
+1313,2025-06-10,Health,Dental,9476.08,Cash,Karachi
+1335,2025-06-10,Transport,Fuel,5667.14,Online,Karachi
+285,2025-06-11,Travel,Travel Transport,3429.68,Cash,Islamabad
+489,2025-06-11,Bills,Electricity,8398.11,Bank Transfer,Lahore
+513,2025-06-11,Education,Education Fees,27383.74,Cash,Dubai
+1128,2025-06-11,Entertainment,Games,8348.59,Online,Islamabad
+1343,2025-06-11,Bills,Phone Bill,3040.38,Card,Lahore
+577,2025-06-12,Travel,Hotel,13565.81,Online,Rawalpindi
+773,2025-06-12,Food,Restaurant,1330.51,Bank Transfer,Lahore
+593,2025-06-14,Food,Coffee,933.24,Online,Islamabad
+1021,2025-06-14,Bills,Internet,6374.98,Cash,Lahore
+745,2025-06-15,Health,Doctor,3672.46,Bank Transfer,Islamabad
+1188,2025-06-15,Bills,Internet,4218.19,Online,Lahore
+1191,2025-06-15,Entertainment,Streaming,1556.18,Card,Rawalpindi
+558,2025-06-16,Entertainment,Games,6457.41,Cash,Islamabad
+1052,2025-06-16,Transport,Fuel,4060.21,Cash,Lahore
+557,2025-06-17,Bills,Electricity,9215.86,Online,Karachi
+1047,2025-06-17,Food,Fast Food,974.04,Bank Transfer,Karachi
+39,2025-06-18,Education,Books,7228.64,Bank Transfer,Rawalpindi
+452,2025-06-18,Travel,Travel Food,5976.6,Cash,Rawalpindi
+1275,2025-06-18,Health,Dental,3954.05,Card,Karachi
+26,2025-06-19,Bills,Utilities,10318.07,Cash,Islamabad
+675,2025-06-19,Shopping,Online Shopping,5909.71,Cash,Rawalpindi
+151,2025-06-20,Bills,Electricity,5496.54,Card,Islamabad
+423,2025-06-20,Travel,Travel Food,2783.8,Bank Transfer,Rawalpindi
+470,2025-06-20,Health,Doctor,3405.42,Card,Dubai
+849,2025-06-20,Education,Stationery,1469.46,Card,Dubai
+538,2025-06-21,Entertainment,Games,3067.65,Online,Karachi
+929,2025-06-21,Food,Fast Food,1502.41,Bank Transfer,Karachi
+1049,2025-06-21,Health,Dental,13467.43,Bank Transfer,Islamabad
+1358,2025-06-21,Food,Coffee,577.92,Bank Transfer,Islamabad
+214,2025-06-22,Transport,Ride Share,1221.04,Cash,Islamabad
+973,2025-06-22,Health,Doctor,4278.35,Card,Lahore
+1243,2025-06-22,Bills,Internet,3517.71,Card,Lahore
+1502,2025-06-22,Travel,Flight,240000.0,Bank Transfer,Dubai
+855,2025-06-24,Health,Doctor,2917.54,Cash,Lahore
+969,2025-06-24,Transport,Ride Share,693.37,Cash,Karachi
+1019,2025-06-25,Bills,Internet,4257.79,Bank Transfer,Karachi
+1064,2025-06-25,Food,Restaurant,3491.0,Online,Islamabad
+545,2025-06-26,Bills,Utilities,3607.3,Online,Karachi
+968,2025-06-26,Food,Fast Food,1691.66,Card,Rawalpindi
+1441,2025-06-26,Education,Books,4999.68,Online,Islamabad
+216,2025-06-27,Shopping,Clothing,5174.76,Online,Rawalpindi
+638,2025-06-27,Transport,Parking,338.67,Bank Transfer,Dubai
+972,2025-06-27,Health,Pharmacy,1348.07,Cash,Rawalpindi
+413,2025-06-28,Shopping,Home Supplies,4652.01,Online,Lahore
+1300,2025-06-28,Health,Doctor,3012.29,Card,Lahore
+1039,2025-06-29,Travel,Flight,39801.37,Online,Islamabad
+1341,2025-06-29,Education,Courses,5648.37,Online,Rawalpindi
+908,2025-06-30,Bills,Utilities,2965.87,Card,Dubai
+982,2025-06-30,Shopping,Clothing,3529.41,Bank Transfer,Islamabad
+58,2025-07-01,Education,Books,2180.75,Bank Transfer,Rawalpindi
+515,2025-07-01,Food,Coffee,855.81,Card,Lahore
+624,2025-07-01,Shopping,Electronics,16111.52,Bank Transfer,Dubai
+754,2025-07-01,Travel,Travel Transport,3606.84,Bank Transfer,Islamabad
+64,2025-07-02,Bills,Electricity,6832.85,Online,Islamabad
+852,2025-07-03,Travel,Flight,89465.91,Card,Islamabad
+1043,2025-07-03,Travel,Flight,24370.29,Bank Transfer,Rawalpindi
+1144,2025-07-03,Bills,Internet,4310.14,Bank Transfer,Rawalpindi
+153,2025-07-04,Shopping,Electronics,14449.76,Online,Dubai
+978,2025-07-04,Travel,Hotel,26685.74,Bank Transfer,Islamabad
+128,2025-07-05,Education,Education Fees,43283.05,Online,Islamabad
+569,2025-07-05,Bills,Electricity,11419.78,Bank Transfer,Dubai
+857,2025-07-05,Transport,Fuel,8734.13,Card,Dubai
+1496,2025-07-05,Entertainment,Games,3787.75,Cash,Rawalpindi
+421,2025-07-07,Health,Doctor,4658.77,Online,Dubai
+570,2025-07-07,Health,Pharmacy,1721.93,Cash,Islamabad
+1150,2025-07-07,Food,Coffee,433.43,Online,Rawalpindi
+114,2025-07-08,Food,Fast Food,2036.51,Online,Karachi
+661,2025-07-08,Entertainment,Streaming,966.52,Cash,Dubai
+733,2025-07-08,Travel,Travel Transport,2320.96,Bank Transfer,Islamabad
+948,2025-07-08,Bills,Phone Bill,2521.96,Card,Rawalpindi
+1065,2025-07-09,Travel,Hotel,15126.26,Bank Transfer,Rawalpindi
+326,2025-07-10,Food,Fast Food,1626.7,Cash,Lahore
+1482,2025-07-10,Education,Stationery,244.47,Online,Rawalpindi
+782,2025-07-11,Health,Dental,11879.57,Bank Transfer,Dubai
+1494,2025-07-11,Entertainment,Streaming,1680.35,Bank Transfer,Lahore
+1179,2025-07-12,Food,Grocery,4970.92,Cash,Lahore
+346,2025-07-13,Transport,Ride Share,1685.18,Online,Dubai
+1016,2025-07-13,Transport,Ride Share,1831.59,Cash,Dubai
+1394,2025-07-13,Education,Courses,13522.88,Bank Transfer,Islamabad
+161,2025-07-14,Bills,Internet,4671.88,Card,Islamabad
+360,2025-07-14,Transport,Parking,1177.34,Cash,Rawalpindi
+35,2025-07-16,Entertainment,Events,3773.66,Cash,Islamabad
+1357,2025-07-16,Transport,Fuel,8707.4,Card,Lahore
+1401,2025-07-16,Bills,Utilities,5337.06,Card,Lahore
+325,2025-07-17,Transport,Public Transport,249.31,Online,Islamabad
+553,2025-07-17,Entertainment,Movies,1028.61,Online,Karachi
+780,2025-07-17,Food,Coffee,486.22,Cash,Islamabad
+795,2025-07-17,Entertainment,Games,5797.57,Online,Karachi
+1285,2025-07-17,Transport,Ride Share,429.05,Card,Dubai
+236,2025-07-18,Health,Fitness,3264.59,Bank Transfer,Rawalpindi
+871,2025-07-18,Food,Restaurant,534.04,Card,Lahore
+1286,2025-07-18,Shopping,Home Supplies,3528.01,Online,Dubai
+573,2025-07-19,Transport,Parking,743.63,Online,Karachi
+715,2025-07-19,Travel,Travel Transport,3850.75,Bank Transfer,Lahore
+1414,2025-07-19,Shopping,Clothing,4622.0,Card,Islamabad
+736,2025-07-20,Shopping,Electronics,32568.42,Card,Lahore
+1378,2025-07-22,Entertainment,Events,4111.72,Cash,Islamabad
+1483,2025-07-22,Transport,Fuel,5114.73,Online,Karachi
+22,2025-07-23,Shopping,Home Supplies,6071.64,Card,Dubai
+1130,2025-07-23,Transport,Parking,622.79,Online,Rawalpindi
+255,2025-07-24,Food,Fast Food,2007.19,Online,Dubai
+579,2025-07-24,Health,Pharmacy,4410.57,Cash,Karachi
+592,2025-07-24,Bills,Internet,3940.34,Online,Islamabad
+631,2025-07-24,Bills,Internet,6510.0,Bank Transfer,Lahore
+1498,2025-07-24,Transport,Ride Share,1030.53,Bank Transfer,Lahore
+477,2025-07-25,Bills,Phone Bill,3267.92,Cash,Rawalpindi
+890,2025-07-25,Entertainment,Streaming,1056.64,Bank Transfer,Rawalpindi
+1074,2025-07-25,Education,Books,2415.12,Online,Rawalpindi
+510,2025-07-26,Shopping,Home Supplies,5711.25,Bank Transfer,Karachi
+873,2025-07-26,Bills,Phone Bill,3445.35,Bank Transfer,Islamabad
+1097,2025-07-26,Travel,Hotel,34744.66,Cash,Islamabad
+1338,2025-07-26,Food,Grocery,4735.19,Online,Dubai
+486,2025-07-27,Shopping,Clothing,4941.94,Cash,Rawalpindi
+843,2025-07-27,Entertainment,Movies,945.34,Online,Dubai
+960,2025-07-27,Shopping,Clothing,15476.49,Cash,Islamabad
+970,2025-07-27,Education,Stationery,1931.69,Online,Islamabad
+1247,2025-07-27,Entertainment,Games,5353.83,Online,Karachi
+363,2025-07-28,Health,Dental,7982.54,Cash,Lahore
+463,2025-07-28,Shopping,Home Supplies,3707.92,Card,Islamabad
+1457,2025-07-28,Transport,Public Transport,759.54,Cash,Islamabad
+45,2025-07-29,Health,Doctor,3454.41,Cash,Islamabad
+206,2025-07-29,Bills,Internet,5158.25,Bank Transfer,Islamabad
+481,2025-07-30,Entertainment,Events,6533.31,Card,Lahore
+526,2025-07-30,Entertainment,Events,8463.06,Bank Transfer,Islamabad
+912,2025-07-30,Health,Dental,9709.59,Bank Transfer,Rawalpindi
+1061,2025-07-30,Entertainment,Games,6643.02,Card,Karachi
+1296,2025-07-30,Education,Courses,13453.53,Card,Islamabad
+1333,2025-07-30,Entertainment,Streaming,1509.83,Card,Rawalpindi
+84,2025-07-31,Education,Education Fees,38220.97,Card,Dubai
+312,2025-08-01,Travel,Travel Food,4492.02,Bank Transfer,Islamabad
+359,2025-08-02,Health,Dental,16745.59,Card,Lahore
+772,2025-08-02,Travel,Travel Transport,4408.12,Bank Transfer,Islamabad
+983,2025-08-03,Education,Stationery,992.27,Online,Karachi
+1057,2025-08-03,Shopping,Clothing,7381.63,Card,Karachi
+1100,2025-08-03,Health,Pharmacy,3144.91,Bank Transfer,Dubai
+1266,2025-08-03,Food,Grocery,10775.9,Online,Karachi
+1325,2025-08-03,Travel,Travel Transport,5559.56,Card,Islamabad
+649,2025-08-04,Entertainment,Events,10184.3,Cash,Dubai
+660,2025-08-04,Health,Doctor,4147.31,Cash,Lahore
+1257,2025-08-04,Health,Dental,10518.36,Online,Islamabad
+1430,2025-08-04,Entertainment,Movies,2029.57,Cash,Rawalpindi
+119,2025-08-05,Bills,Electricity,7613.5,Cash,Dubai
+1405,2025-08-05,Food,Coffee,638.62,Bank Transfer,Rawalpindi
+1154,2025-08-06,Food,Grocery,4545.57,Card,Lahore
+1479,2025-08-07,Food,Coffee,409.1,Bank Transfer,Dubai
+270,2025-08-08,Bills,Utilities,3985.86,Cash,Karachi
+416,2025-08-08,Entertainment,Streaming,1655.43,Card,Dubai
+498,2025-08-08,Shopping,Home Supplies,3159.31,Cash,Karachi
+245,2025-08-09,Shopping,Online Shopping,5069.93,Bank Transfer,Lahore
+739,2025-08-09,Bills,Utilities,8424.75,Card,Rawalpindi
+1137,2025-08-09,Bills,Internet,4087.83,Online,Lahore
+690,2025-08-10,Travel,Travel Transport,5681.76,Cash,Lahore
+1353,2025-08-10,Food,Grocery,4711.16,Card,Dubai
+349,2025-08-11,Food,Grocery,5126.93,Bank Transfer,Lahore
+910,2025-08-11,Shopping,Clothing,11099.45,Cash,Rawalpindi
+94,2025-08-12,Travel,Travel Food,6312.93,Cash,Dubai
+334,2025-08-12,Entertainment,Movies,1331.01,Bank Transfer,Karachi
+1000,2025-08-12,Shopping,Home Supplies,3235.42,Card,Karachi
+945,2025-08-13,Bills,Phone Bill,1930.05,Card,Dubai
+29,2025-08-14,Food,Restaurant,2518.66,Card,Lahore
+993,2025-08-14,Bills,Internet,5248.31,Cash,Dubai
+1362,2025-08-14,Transport,Public Transport,448.58,Bank Transfer,Karachi
+351,2025-08-15,Education,Stationery,904.94,Cash,Rawalpindi
+568,2025-08-16,Travel,Travel Food,4639.65,Cash,Dubai
+728,2025-08-16,Shopping,Clothing,8358.15,Online,Rawalpindi
+1056,2025-08-16,Shopping,Electronics,43507.68,Bank Transfer,Lahore
+1499,2025-08-16,Health,Fitness,3325.87,Online,Karachi
+475,2025-08-17,Food,Coffee,295.87,Online,Islamabad
+611,2025-08-17,Education,Education Fees,33670.17,Card,Rawalpindi
+616,2025-08-17,Travel,Travel Food,4935.22,Online,Islamabad
+92,2025-08-18,Transport,Ride Share,1574.56,Cash,Lahore
+1131,2025-08-18,Food,Restaurant,3483.57,Cash,Karachi
+231,2025-08-20,Shopping,Electronics,14318.27,Card,Dubai
+957,2025-08-20,Food,Coffee,1009.23,Online,Karachi
+9,2025-08-22,Bills,Electricity,17899.37,Card,Rawalpindi
+384,2025-08-22,Health,Fitness,3162.49,Online,Karachi
+585,2025-08-22,Entertainment,Games,3674.91,Card,Dubai
+1323,2025-08-22,Entertainment,Games,5233.4,Online,Rawalpindi
+735,2025-08-23,Transport,Public Transport,537.1,Online,Rawalpindi
+1470,2025-08-23,Bills,Electricity,20720.86,Online,Islamabad
+365,2025-08-24,Education,Courses,8892.25,Bank Transfer,Islamabad
+720,2025-08-24,Health,Fitness,5925.36,Card,Islamabad
+1295,2025-08-24,Travel,Flight,42163.43,Bank Transfer,Rawalpindi
+369,2025-08-25,Transport,Fuel,2879.44,Online,Islamabad
+839,2025-08-25,Entertainment,Games,6781.22,Bank Transfer,Karachi
+3,2025-08-27,Food,Grocery,6799.94,Online,Lahore
+509,2025-08-27,Entertainment,Movies,1332.17,Card,Islamabad
+966,2025-08-27,Transport,Ride Share,1539.86,Online,Karachi
+1235,2025-08-27,Education,Stationery,1332.86,Online,Islamabad
+122,2025-08-28,Bills,Internet,4104.92,Cash,Lahore
+1265,2025-08-28,Travel,Travel Food,1913.53,Online,Dubai
+1412,2025-08-28,Travel,Travel Transport,4750.04,Card,Islamabad
+73,2025-08-29,Bills,Internet,5320.62,Cash,Karachi
+81,2025-08-29,Bills,Phone Bill,2200.55,Card,Lahore
+594,2025-08-29,Food,Restaurant,2399.47,Card,Dubai
+664,2025-08-29,Transport,Public Transport,433.62,Cash,Islamabad
+748,2025-08-29,Bills,Electricity,8341.97,Online,Karachi
+1107,2025-08-30,Education,Courses,4798.84,Cash,Karachi
+158,2025-08-31,Education,Stationery,1395.44,Bank Transfer,Karachi
+1368,2025-08-31,Education,Courses,10320.27,Card,Lahore
+936,2025-09-01,Travel,Flight,40513.03,Bank Transfer,Karachi
+1022,2025-09-01,Transport,Ride Share,2352.69,Cash,Rawalpindi
+24,2025-09-03,Food,Grocery,8591.79,Card,Karachi
+361,2025-09-03,Health,Dental,7646.16,Bank Transfer,Islamabad
+457,2025-09-03,Travel,Travel Transport,1832.56,Online,Dubai
+1407,2025-09-03,Health,Fitness,2986.16,Card,Islamabad
+154,2025-09-04,Travel,Flight,41772.48,Bank Transfer,Rawalpindi
+252,2025-09-04,Transport,Public Transport,235.29,Bank Transfer,Dubai
+799,2025-09-04,Entertainment,Events,9249.93,Bank Transfer,Islamabad
+1503,2025-09-04,Education,Education Fees,175000.0,Bank Transfer,Lahore
+724,2025-09-05,Bills,Internet,3640.0,Cash,Dubai
+356,2025-09-06,Bills,Internet,3875.14,Card,Rawalpindi
+391,2025-09-06,Shopping,Online Shopping,6072.07,Bank Transfer,Islamabad
+776,2025-09-06,Food,Restaurant,2127.44,Online,Dubai
+374,2025-09-07,Entertainment,Streaming,1546.08,Card,Karachi
+687,2025-09-07,Food,Grocery,5627.2,Cash,Lahore
+48,2025-09-08,Health,Dental,5388.04,Bank Transfer,Dubai
+101,2025-09-09,Transport,Public Transport,595.65,Cash,Rawalpindi
+499,2025-09-09,Bills,Utilities,5168.01,Online,Karachi
+1108,2025-09-09,Bills,Utilities,5608.57,Online,Rawalpindi
+1204,2025-09-09,Shopping,Online Shopping,15527.79,Cash,Rawalpindi
+1258,2025-09-09,Health,Dental,5992.67,Bank Transfer,Karachi
+394,2025-09-10,Travel,Flight,54398.98,Cash,Islamabad
+1118,2025-09-10,Bills,Internet,3952.46,Bank Transfer,Islamabad
+1339,2025-09-10,Health,Fitness,3259.48,Card,Karachi
+28,2025-09-11,Entertainment,Movies,1119.31,Cash,Dubai
+996,2025-09-11,Health,Fitness,3698.45,Cash,Dubai
+1277,2025-09-11,Transport,Parking,535.84,Bank Transfer,Karachi
+59,2025-09-12,Bills,Internet,5239.3,Card,Rawalpindi
+721,2025-09-12,Bills,Electricity,10527.24,Bank Transfer,Karachi
+501,2025-09-13,Food,Coffee,783.93,Bank Transfer,Rawalpindi
+760,2025-09-13,Shopping,Online Shopping,16494.37,Cash,Islamabad
+804,2025-09-13,Entertainment,Streaming,1762.36,Card,Dubai
+1478,2025-09-13,Transport,Public Transport,302.76,Bank Transfer,Islamabad
+770,2025-09-14,Education,Books,1885.96,Cash,Rawalpindi
+954,2025-09-14,Travel,Hotel,37716.48,Cash,Karachi
+1077,2025-09-14,Travel,Travel Transport,2406.68,Cash,Karachi
+19,2025-09-15,Food,Restaurant,2431.95,Bank Transfer,Islamabad
+932,2025-09-16,Shopping,Home Supplies,3137.18,Bank Transfer,Karachi
+858,2025-09-17,Food,Coffee,568.51,Online,Dubai
+1171,2025-09-17,Health,Dental,9894.34,Card,Karachi
+620,2025-09-18,Entertainment,Games,3022.59,Online,Lahore
+155,2025-09-19,Food,Coffee,919.96,Cash,Karachi
+587,2025-09-19,Food,Restaurant,2368.78,Card,Karachi
+596,2025-09-20,Entertainment,Events,13735.3,Bank Transfer,Islamabad
+899,2025-09-22,Health,Fitness,2359.48,Bank Transfer,Islamabad
+1175,2025-09-23,Transport,Parking,747.29,Card,Rawalpindi
+491,2025-09-24,Shopping,Clothing,14935.69,Online,Dubai
+756,2025-09-24,Shopping,Home Supplies,1016.47,Cash,Islamabad
+1023,2025-09-24,Health,Doctor,3157.06,Card,Islamabad
+1146,2025-09-24,Transport,Public Transport,177.84,Cash,Rawalpindi
+362,2025-09-25,Health,Fitness,3279.63,Online,Islamabad
+934,2025-09-25,Entertainment,Events,4150.05,Card,Islamabad
+1125,2025-09-25,Transport,Public Transport,347.99,Bank Transfer,Rawalpindi
+418,2025-09-26,Travel,Travel Food,5151.84,Online,Dubai
+939,2025-09-26,Shopping,Online Shopping,2194.74,Online,Rawalpindi
+1042,2025-09-26,Bills,Utilities,3457.89,Bank Transfer,Rawalpindi
+1301,2025-09-26,Transport,Ride Share,1733.59,Cash,Rawalpindi
+784,2025-09-27,Health,Fitness,1085.18,Online,Lahore
+7,2025-09-28,Food,Coffee,593.25,Online,Karachi
+50,2025-09-28,Transport,Ride Share,1552.57,Cash,Islamabad
+544,2025-09-28,Education,Education Fees,25020.21,Online,Karachi
+639,2025-09-28,Shopping,Electronics,37858.41,Bank Transfer,Karachi
+677,2025-09-28,Health,Doctor,1985.34,Cash,Dubai
+937,2025-09-28,Transport,Ride Share,776.58,Online,Rawalpindi
+1148,2025-09-28,Health,Fitness,5332.08,Bank Transfer,Rawalpindi
+182,2025-09-29,Food,Grocery,7040.81,Card,Karachi
+951,2025-09-29,Shopping,Online Shopping,4173.41,Cash,Dubai
+1098,2025-09-29,Food,Fast Food,2382.74,Online,Lahore
+1174,2025-09-29,Health,Doctor,3187.93,Card,Dubai
+123,2025-09-30,Shopping,Clothing,3632.18,Bank Transfer,Dubai
+769,2025-09-30,Education,Books,3698.75,Cash,Lahore
+793,2025-09-30,Food,Restaurant,3008.56,Card,Lahore
+11,2025-10-01,Transport,Fuel,5656.35,Cash,Lahore
+288,2025-10-01,Travel,Flight,35854.0,Card,Islamabad
+373,2025-10-01,Education,Books,2961.01,Online,Rawalpindi
+434,2025-10-01,Transport,Fuel,8772.1,Online,Karachi
+392,2025-10-02,Travel,Flight,28975.18,Online,Islamabad
+441,2025-10-02,Health,Dental,7225.4,Cash,Dubai
+600,2025-10-02,Transport,Public Transport,544.5,Cash,Karachi
+723,2025-10-03,Shopping,Electronics,33753.79,Cash,Lahore
+1248,2025-10-03,Food,Fast Food,1103.32,Online,Karachi
+503,2025-10-04,Shopping,Clothing,6445.19,Cash,Karachi
+590,2025-10-04,Shopping,Online Shopping,16549.73,Card,Dubai
+991,2025-10-04,Entertainment,Streaming,877.46,Card,Islamabad
+474,2025-10-05,Transport,Public Transport,227.99,Card,Lahore
+824,2025-10-05,Food,Coffee,676.5,Card,Karachi
+1465,2025-10-05,Transport,Ride Share,781.04,Online,Lahore
+125,2025-10-06,Travel,Travel Transport,1625.59,Card,Rawalpindi
+316,2025-10-06,Shopping,Clothing,9320.43,Cash,Lahore
+138,2025-10-07,Education,Education Fees,44633.13,Cash,Rawalpindi
+941,2025-10-07,Health,Dental,6559.15,Card,Islamabad
+1269,2025-10-08,Entertainment,Movies,2347.75,Bank Transfer,Dubai
+727,2025-10-09,Travel,Flight,108870.08,Bank Transfer,Rawalpindi
+104,2025-10-10,Food,Grocery,2280.52,Online,Rawalpindi
+140,2025-10-10,Education,Stationery,2369.02,Bank Transfer,Karachi
+435,2025-10-11,Shopping,Electronics,23359.13,Bank Transfer,Lahore
+455,2025-10-11,Transport,Fuel,5747.07,Bank Transfer,Karachi
+949,2025-10-11,Education,Stationery,878.44,Card,Islamabad
+10,2025-10-12,Travel,Travel Food,2920.68,Bank Transfer,Lahore
+1110,2025-10-12,Shopping,Clothing,15335.7,Online,Karachi
+1267,2025-10-12,Travel,Flight,60351.62,Cash,Karachi
+1371,2025-10-12,Health,Pharmacy,2652.15,Online,Islamabad
+268,2025-10-13,Entertainment,Movies,670.36,Cash,Rawalpindi
+1075,2025-10-13,Bills,Utilities,4850.66,Online,Rawalpindi
+297,2025-10-14,Transport,Fuel,8995.44,Online,Islamabad
+482,2025-10-14,Transport,Ride Share,1976.22,Online,Islamabad
+504,2025-10-15,Food,Coffee,588.82,Cash,Lahore
+548,2025-10-15,Travel,Hotel,43667.55,Cash,Lahore
+684,2025-10-15,Entertainment,Games,3516.42,Bank Transfer,Dubai
+1147,2025-10-15,Health,Fitness,2688.79,Bank Transfer,Dubai
+1264,2025-10-15,Health,Doctor,2428.44,Bank Transfer,Lahore
+1418,2025-10-15,Entertainment,Streaming,1519.13,Card,Lahore
+51,2025-10-16,Entertainment,Streaming,977.52,Bank Transfer,Dubai
+293,2025-10-16,Travel,Travel Transport,2621.6,Card,Karachi
+141,2025-10-17,Bills,Utilities,8729.59,Online,Dubai
+563,2025-10-17,Bills,Electricity,11561.11,Bank Transfer,Islamabad
+787,2025-10-17,Health,Fitness,3949.14,Card,Karachi
+1069,2025-10-18,Travel,Travel Food,5727.83,Online,Lahore
+1153,2025-10-18,Shopping,Electronics,47327.53,Bank Transfer,Dubai
+1427,2025-10-18,Shopping,Clothing,9132.79,Bank Transfer,Dubai
+235,2025-10-19,Travel,Flight,59180.43,Bank Transfer,Rawalpindi
+864,2025-10-19,Shopping,Online Shopping,14719.16,Bank Transfer,Karachi
+1034,2025-10-19,Health,Dental,6942.37,Online,Dubai
+40,2025-10-20,Education,Education Fees,14368.55,Bank Transfer,Lahore
+320,2025-10-20,Food,Restaurant,2338.51,Cash,Dubai
+1379,2025-10-20,Travel,Flight,43969.54,Online,Karachi
+220,2025-10-21,Transport,Ride Share,1341.72,Online,Rawalpindi
+341,2025-10-21,Education,Courses,12454.81,Online,Islamabad
+757,2025-10-21,Travel,Hotel,28663.85,Online,Rawalpindi
+1203,2025-10-21,Shopping,Clothing,6003.15,Online,Islamabad
+1340,2025-10-22,Travel,Travel Food,5819.39,Bank Transfer,Rawalpindi
+124,2025-10-23,Travel,Hotel,22167.67,Bank Transfer,Rawalpindi
+1036,2025-10-23,Shopping,Online Shopping,14302.5,Online,Lahore
+1048,2025-10-24,Bills,Electricity,11984.32,Cash,Karachi
+1298,2025-10-25,Travel,Flight,65903.18,Bank Transfer,Karachi
+248,2025-10-26,Education,Books,4050.29,Cash,Dubai
+398,2025-10-26,Travel,Flight,46848.68,Bank Transfer,Rawalpindi
+848,2025-10-26,Travel,Travel Transport,5836.23,Bank Transfer,Rawalpindi
+1429,2025-10-26,Education,Books,7126.09,Bank Transfer,Lahore
+1190,2025-10-28,Education,Education Fees,34399.73,Bank Transfer,Rawalpindi
+637,2025-10-29,Travel,Flight,108539.31,Card,Lahore
+914,2025-10-29,Food,Fast Food,1899.52,Card,Karachi
+1183,2025-10-29,Education,Books,2805.86,Card,Rawalpindi
+1229,2025-10-29,Travel,Hotel,32552.22,Cash,Dubai
+1306,2025-10-29,Shopping,Home Supplies,2999.21,Bank Transfer,Lahore
+1318,2025-10-29,Transport,Public Transport,639.09,Card,Karachi
+261,2025-10-30,Bills,Utilities,6383.6,Online,Lahore
+332,2025-10-30,Health,Doctor,3229.31,Cash,Rawalpindi
+385,2025-10-30,Entertainment,Movies,803.12,Cash,Rawalpindi
+1314,2025-10-30,Travel,Travel Food,3284.83,Card,Rawalpindi
+430,2025-11-01,Food,Coffee,434.84,Card,Rawalpindi
+527,2025-11-01,Entertainment,Movies,735.78,Online,Lahore
+658,2025-11-02,Health,Pharmacy,2768.23,Cash,Karachi
+1217,2025-11-02,Food,Coffee,475.63,Cash,Dubai
+1450,2025-11-02,Health,Doctor,4199.34,Card,Lahore
+380,2025-11-03,Shopping,Electronics,36991.59,Online,Dubai
+758,2025-11-03,Food,Coffee,799.53,Cash,Karachi
+878,2025-11-03,Health,Pharmacy,1676.45,Bank Transfer,Islamabad
+1328,2025-11-03,Health,Pharmacy,2819.5,Card,Lahore
+549,2025-11-04,Travel,Travel Food,3471.93,Online,Dubai
+738,2025-11-04,Bills,Electricity,10520.88,Cash,Karachi
+1101,2025-11-04,Education,Stationery,786.4,Online,Islamabad
+1105,2025-11-04,Education,Education Fees,18481.69,Card,Lahore
+1168,2025-11-04,Shopping,Electronics,43289.98,Bank Transfer,Lahore
+1451,2025-11-04,Food,Fast Food,1385.38,Online,Lahore
+70,2025-11-05,Education,Books,2690.29,Cash,Rawalpindi
+97,2025-11-05,Transport,Ride Share,991.73,Online,Islamabad
+246,2025-11-05,Transport,Ride Share,868.45,Online,Karachi
+456,2025-11-05,Entertainment,Games,7313.01,Bank Transfer,Karachi
+938,2025-11-05,Travel,Flight,49834.9,Online,Rawalpindi
+1025,2025-11-05,Transport,Ride Share,1059.52,Online,Lahore
+1122,2025-11-05,Transport,Fuel,4665.74,Cash,Rawalpindi
+1212,2025-11-05,Transport,Ride Share,1230.37,Online,Lahore
+1281,2025-11-05,Education,Books,1766.41,Card,Dubai
+562,2025-11-06,Education,Books,840.18,Bank Transfer,Dubai
+830,2025-11-06,Entertainment,Streaming,1763.96,Bank Transfer,Rawalpindi
+281,2025-11-07,Transport,Fuel,5934.07,Cash,Lahore
+837,2025-11-07,Travel,Travel Food,2856.44,Cash,Karachi
+1041,2025-11-08,Travel,Travel Transport,2380.48,Card,Lahore
+1215,2025-11-08,Education,Books,4705.37,Bank Transfer,Islamabad
+1500,2025-11-08,Transport,Public Transport,326.15,Bank Transfer,Rawalpindi
+61,2025-11-09,Entertainment,Games,1895.41,Cash,Rawalpindi
+809,2025-11-09,Food,Fast Food,1205.03,Cash,Islamabad
+704,2025-11-11,Health,Fitness,4383.03,Card,Lahore
+1244,2025-11-11,Education,Courses,3876.07,Bank Transfer,Lahore
+205,2025-11-12,Food,Grocery,4411.65,Card,Karachi
+291,2025-11-12,Travel,Hotel,12145.48,Online,Dubai
+387,2025-11-12,Travel,Travel Food,6269.28,Card,Lahore
+230,2025-11-13,Shopping,Electronics,26989.95,Online,Lahore
+476,2025-11-15,Health,Pharmacy,2766.67,Card,Islamabad
+552,2025-11-15,Education,Courses,12645.74,Card,Lahore
+833,2025-11-16,Health,Fitness,3555.4,Cash,Lahore
+889,2025-11-16,Food,Fast Food,1352.66,Cash,Islamabad
+290,2025-11-17,Entertainment,Games,5388.56,Online,Rawalpindi
+635,2025-11-17,Food,Restaurant,2644.12,Cash,Dubai
+667,2025-11-17,Entertainment,Games,6992.68,Online,Islamabad
+1280,2025-11-17,Transport,Fuel,3488.2,Online,Karachi
+65,2025-11-18,Education,Books,3010.05,Cash,Islamabad
+606,2025-11-18,Food,Grocery,10549.21,Bank Transfer,Dubai
+627,2025-11-18,Entertainment,Games,3665.53,Bank Transfer,Islamabad
+379,2025-11-19,Food,Grocery,5729.24,Online,Karachi
+798,2025-11-19,Health,Dental,7966.28,Online,Islamabad
+802,2025-11-19,Food,Fast Food,1957.01,Cash,Karachi
+881,2025-11-19,Food,Fast Food,1038.34,Online,Lahore
+109,2025-11-20,Transport,Fuel,4236.89,Online,Islamabad
+575,2025-11-20,Shopping,Clothing,7977.8,Cash,Islamabad
+940,2025-11-20,Food,Restaurant,3448.48,Bank Transfer,Rawalpindi
+1186,2025-11-20,Transport,Public Transport,605.6,Online,Rawalpindi
+277,2025-11-21,Transport,Parking,693.79,Bank Transfer,Lahore
+869,2025-11-21,Bills,Phone Bill,4083.62,Online,Dubai
+1123,2025-11-21,Education,Books,2577.52,Card,Rawalpindi
+1242,2025-11-21,Education,Stationery,562.98,Card,Dubai
+516,2025-11-22,Entertainment,Movies,2072.99,Cash,Islamabad
+642,2025-11-22,Entertainment,Games,5537.43,Cash,Rawalpindi
+836,2025-11-22,Shopping,Clothing,11219.19,Online,Rawalpindi
+1305,2025-11-22,Education,Courses,15588.22,Cash,Dubai
+301,2025-11-23,Shopping,Online Shopping,23010.79,Bank Transfer,Dubai
+350,2025-11-23,Health,Doctor,3618.69,Cash,Dubai
+353,2025-11-23,Education,Education Fees,14198.17,Online,Lahore
+397,2025-11-25,Entertainment,Events,5162.19,Online,Islamabad
+610,2025-11-25,Entertainment,Streaming,2206.77,Card,Dubai
+646,2025-11-25,Education,Books,3012.81,Bank Transfer,Karachi
+648,2025-11-25,Transport,Ride Share,776.29,Card,Karachi
+817,2025-11-25,Health,Pharmacy,3678.84,Cash,Islamabad
+71,2025-11-26,Travel,Travel Transport,3246.84,Cash,Dubai
+143,2025-11-26,Entertainment,Games,5892.22,Cash,Rawalpindi
+1374,2025-11-26,Shopping,Online Shopping,12505.75,Card,Rawalpindi
+126,2025-11-27,Bills,Electricity,6518.04,Card,Islamabad
+23,2025-11-28,Travel,Hotel,12964.23,Bank Transfer,Islamabad
+679,2025-11-28,Transport,Public Transport,558.63,Bank Transfer,Dubai
+853,2025-11-28,Shopping,Clothing,4136.57,Online,Islamabad
+211,2025-11-29,Shopping,Online Shopping,16584.06,Bank Transfer,Karachi
+564,2025-11-29,Bills,Phone Bill,3009.65,Bank Transfer,Lahore
+775,2025-11-29,Food,Grocery,7575.28,Card,Rawalpindi
+1490,2025-11-29,Education,Education Fees,13632.14,Card,Karachi
+986,2025-11-30,Education,Courses,12105.52,Bank Transfer,Lahore
+163,2025-12-01,Education,Courses,5886.59,Bank Transfer,Dubai
+90,2025-12-02,Entertainment,Events,5253.44,Online,Islamabad
+207,2025-12-02,Transport,Ride Share,1176.55,Online,Lahore
+336,2025-12-02,Travel,Hotel,28409.97,Online,Karachi
+62,2025-12-03,Bills,Electricity,21603.17,Bank Transfer,Islamabad
+226,2025-12-04,Transport,Parking,566.7,Cash,Islamabad
+867,2025-12-04,Education,Courses,11342.42,Card,Karachi
+1320,2025-12-04,Bills,Phone Bill,3286.77,Bank Transfer,Lahore
+640,2025-12-05,Travel,Flight,26103.9,Bank Transfer,Dubai
+1408,2025-12-05,Transport,Ride Share,1124.31,Online,Lahore
+303,2025-12-06,Transport,Parking,788.28,Card,Dubai
+381,2025-12-06,Education,Courses,12814.91,Card,Dubai
+644,2025-12-06,Health,Dental,6075.33,Online,Dubai
+928,2025-12-06,Education,Stationery,2511.44,Bank Transfer,Islamabad
+1293,2025-12-06,Health,Dental,8031.5,Cash,Karachi
+177,2025-12-08,Entertainment,Games,7692.05,Cash,Karachi
+1278,2025-12-08,Entertainment,Movies,1696.36,Online,Karachi
+1385,2025-12-08,Shopping,Online Shopping,6465.1,Cash,Karachi
+1461,2025-12-08,Bills,Internet,5617.22,Cash,Islamabad
+740,2025-12-09,Bills,Phone Bill,2285.36,Bank Transfer,Islamabad
+243,2025-12-10,Shopping,Electronics,10974.2,Online,Lahore
+480,2025-12-10,Food,Coffee,853.79,Bank Transfer,Karachi
+518,2025-12-10,Travel,Hotel,17262.77,Cash,Karachi
+877,2025-12-10,Travel,Travel Transport,6289.88,Card,Dubai
+1005,2025-12-10,Food,Fast Food,1861.0,Card,Rawalpindi
+1017,2025-12-10,Education,Stationery,1556.24,Bank Transfer,Rawalpindi
+302,2025-12-11,Travel,Travel Food,4466.08,Card,Islamabad
+282,2025-12-12,Food,Restaurant,831.48,Bank Transfer,Lahore
+744,2025-12-12,Education,Education Fees,35157.4,Card,Karachi
+943,2025-12-12,Shopping,Home Supplies,4578.18,Card,Karachi
+165,2025-12-13,Transport,Parking,1287.51,Cash,Lahore
+253,2025-12-13,Shopping,Online Shopping,22156.09,Online,Lahore
+778,2025-12-13,Food,Restaurant,1557.24,Cash,Dubai
+894,2025-12-13,Travel,Hotel,13587.9,Online,Karachi
+1207,2025-12-13,Health,Fitness,6315.9,Cash,Rawalpindi
+190,2025-12-14,Travel,Travel Transport,3136.62,Card,Islamabad
+198,2025-12-14,Health,Pharmacy,1584.63,Cash,Dubai
+298,2025-12-14,Health,Doctor,3124.77,Online,Dubai
+5,2025-12-15,Bills,Internet,3604.91,Bank Transfer,Karachi
+885,2025-12-15,Travel,Travel Food,6381.86,Cash,Karachi
+1214,2025-12-15,Shopping,Clothing,2958.13,Bank Transfer,Lahore
+1324,2025-12-15,Transport,Public Transport,566.76,Online,Rawalpindi
+618,2025-12-16,Health,Dental,9442.63,Bank Transfer,Karachi
+1292,2025-12-16,Entertainment,Events,8437.04,Online,Dubai
+692,2025-12-17,Travel,Hotel,16415.1,Online,Lahore
+767,2025-12-17,Education,Stationery,1860.93,Online,Islamabad
+906,2025-12-17,Entertainment,Games,6578.45,Card,Dubai
+1403,2025-12-17,Food,Grocery,4949.14,Card,Karachi
+1492,2025-12-17,Education,Books,3213.59,Bank Transfer,Islamabad
+412,2025-12-18,Transport,Fuel,8315.32,Cash,Dubai
+1347,2025-12-18,Education,Courses,7806.91,Card,Islamabad
+913,2025-12-19,Transport,Ride Share,1336.44,Online,Lahore
+1024,2025-12-19,Shopping,Home Supplies,4013.26,Cash,Dubai
+1210,2025-12-19,Food,Fast Food,1896.89,Cash,Rawalpindi
+1291,2025-12-19,Entertainment,Games,6404.03,Cash,Karachi
+1396,2025-12-19,Shopping,Home Supplies,5959.27,Online,Islamabad
+1010,2025-12-20,Travel,Travel Transport,3506.53,Card,Rawalpindi
+1466,2025-12-20,Education,Education Fees,25619.44,Bank Transfer,Karachi
+280,2025-12-21,Bills,Electricity,8827.7,Bank Transfer,Lahore
+382,2025-12-21,Food,Restaurant,1749.76,Card,Islamabad
+608,2025-12-21,Education,Courses,13701.95,Card,Karachi
+1015,2025-12-22,Education,Education Fees,30444.44,Card,Islamabad
+241,2025-12-24,Food,Coffee,278.22,Bank Transfer,Lahore
+862,2025-12-24,Food,Grocery,8269.27,Bank Transfer,Islamabad
+196,2025-12-25,Health,Pharmacy,3643.45,Cash,Rawalpindi
+519,2025-12-25,Bills,Electricity,15129.32,Card,Rawalpindi
+698,2025-12-25,Transport,Parking,451.7,Online,Lahore
+215,2025-12-26,Shopping,Electronics,16063.99,Bank Transfer,Lahore
+433,2025-12-26,Bills,Internet,3859.76,Bank Transfer,Islamabad
+521,2025-12-26,Education,Books,5366.88,Cash,Lahore
+1255,2025-12-26,Entertainment,Streaming,725.71,Card,Islamabad
+1009,2025-12-28,Bills,Utilities,4424.97,Card,Islamabad
+1087,2025-12-28,Bills,Phone Bill,1524.58,Card,Lahore
+57,2025-12-29,Education,Courses,15722.94,Cash,Lahore
+310,2025-12-29,Bills,Utilities,3936.23,Cash,Islamabad
+1142,2025-12-29,Food,Restaurant,1331.29,Online,Islamabad
+1469,2025-12-29,Travel,Travel Food,3501.13,Online,Dubai
+922,2025-12-30,Entertainment,Games,4920.88,Card,Dubai
+1327,2025-12-30,Health,Doctor,4179.75,Online,Dubai
+725,2025-12-31,Shopping,Clothing,4522.97,Card,Rawalpindi
+257,2026-01-01,Food,Fast Food,872.32,Bank Transfer,Rawalpindi
+514,2026-01-01,Entertainment,Games,4640.98,Bank Transfer,Lahore
+796,2026-01-02,Travel,Travel Transport,5821.55,Cash,Lahore
+1262,2026-01-02,Education,Courses,13704.15,Card,Karachi
+152,2026-01-03,Health,Fitness,2211.34,Online,Dubai
+669,2026-01-03,Bills,Utilities,6034.41,Cash,Dubai
+676,2026-01-03,Food,Grocery,7234.23,Cash,Karachi
+1194,2026-01-03,Bills,Phone Bill,3070.81,Cash,Dubai
+1487,2026-01-03,Entertainment,Movies,960.78,Card,Lahore
+598,2026-01-04,Health,Fitness,4396.73,Card,Karachi
+668,2026-01-04,Shopping,Home Supplies,7183.09,Online,Rawalpindi
+1380,2026-01-04,Education,Education Fees,14753.12,Online,Rawalpindi
+111,2026-01-05,Shopping,Home Supplies,1097.94,Cash,Islamabad
+445,2026-01-05,Bills,Electricity,10204.73,Cash,Karachi
+554,2026-01-05,Entertainment,Streaming,1151.24,Online,Dubai
+678,2026-01-05,Education,Education Fees,39059.3,Card,Karachi
+774,2026-01-05,Food,Grocery,10404.74,Cash,Rawalpindi
+133,2026-01-06,Travel,Travel Transport,4882.25,Cash,Islamabad
+980,2026-01-06,Entertainment,Events,9306.95,Cash,Islamabad
+1272,2026-01-06,Food,Grocery,1818.75,Online,Dubai
+1437,2026-01-06,Transport,Fuel,4975.11,Online,Lahore
+1050,2026-01-07,Transport,Public Transport,550.33,Card,Lahore
+1112,2026-01-08,Transport,Parking,1237.02,Cash,Lahore
+56,2026-01-09,Food,Fast Food,795.7,Cash,Karachi
+399,2026-01-09,Transport,Fuel,5936.16,Cash,Dubai
+1485,2026-01-09,Education,Courses,9311.99,Bank Transfer,Karachi
+673,2026-01-10,Education,Courses,14827.77,Bank Transfer,Lahore
+1006,2026-01-10,Travel,Hotel,19586.23,Cash,Dubai
+1088,2026-01-11,Health,Pharmacy,3656.33,Bank Transfer,Rawalpindi
+1316,2026-01-12,Travel,Travel Food,3488.39,Card,Lahore
+1423,2026-01-12,Shopping,Home Supplies,8272.39,Card,Islamabad
+107,2026-01-13,Travel,Travel Food,4211.68,Bank Transfer,Islamabad
+478,2026-01-13,Travel,Flight,73916.31,Cash,Lahore
+1290,2026-01-13,Food,Grocery,1956.87,Card,Rawalpindi
+201,2026-01-14,Bills,Phone Bill,3396.61,Card,Karachi
+1139,2026-01-14,Travel,Hotel,7419.0,Cash,Islamabad
+174,2026-01-15,Entertainment,Events,6147.63,Cash,Islamabad
+357,2026-01-15,Transport,Fuel,3400.95,Online,Dubai
+532,2026-01-15,Education,Stationery,762.85,Card,Islamabad
+708,2026-01-15,Transport,Ride Share,1520.16,Online,Dubai
+1468,2026-01-15,Entertainment,Events,8567.41,Cash,Rawalpindi
+882,2026-01-16,Travel,Travel Food,3214.06,Bank Transfer,Lahore
+547,2026-01-17,Food,Fast Food,1684.14,Bank Transfer,Islamabad
+1303,2026-01-17,Shopping,Online Shopping,17839.06,Card,Karachi
+251,2026-01-18,Bills,Electricity,10032.04,Card,Islamabad
+512,2026-01-18,Education,Books,2816.44,Bank Transfer,Lahore
+819,2026-01-18,Shopping,Clothing,4426.79,Card,Lahore
+1156,2026-01-18,Transport,Public Transport,245.25,Card,Rawalpindi
+1252,2026-01-18,Shopping,Electronics,35567.97,Online,Dubai
+1387,2026-01-18,Education,Education Fees,18231.91,Card,Rawalpindi
+1504,2026-01-18,Shopping,Electronics,210000.0,Card,Islamabad
+407,2026-01-19,Education,Education Fees,31781.19,Cash,Islamabad
+1369,2026-01-19,Travel,Travel Food,3140.47,Online,Lahore
+1399,2026-01-19,Shopping,Electronics,21131.13,Cash,Dubai
+96,2026-01-20,Education,Courses,4198.66,Cash,Karachi
+437,2026-01-20,Travel,Hotel,26887.87,Card,Rawalpindi
+988,2026-01-20,Entertainment,Movies,1265.68,Online,Karachi
+1038,2026-01-20,Transport,Ride Share,1065.46,Bank Transfer,Rawalpindi
+233,2026-01-21,Shopping,Electronics,20327.03,Cash,Rawalpindi
+309,2026-01-21,Health,Doctor,4386.41,Bank Transfer,Dubai
+823,2026-01-21,Food,Fast Food,741.35,Bank Transfer,Lahore
+1355,2026-01-22,Entertainment,Games,4618.88,Cash,Lahore
+102,2026-01-24,Health,Pharmacy,2560.58,Bank Transfer,Lahore
+345,2026-01-24,Entertainment,Games,5145.05,Cash,Islamabad
+604,2026-01-24,Health,Pharmacy,4207.03,Cash,Rawalpindi
+731,2026-01-24,Transport,Public Transport,325.42,Bank Transfer,Lahore
+909,2026-01-24,Health,Fitness,3966.54,Card,Karachi
+1459,2026-01-24,Food,Grocery,2194.32,Card,Dubai
+85,2026-01-25,Travel,Hotel,40863.12,Bank Transfer,Rawalpindi
+168,2026-01-26,Health,Pharmacy,3242.01,Online,Karachi
+1160,2026-01-26,Transport,Parking,547.48,Cash,Rawalpindi
+1382,2026-01-26,Education,Books,4874.9,Bank Transfer,Dubai
+342,2026-01-27,Travel,Travel Transport,2971.45,Cash,Islamabad
+1079,2026-01-27,Health,Doctor,3623.21,Card,Karachi
+266,2026-01-28,Food,Grocery,6471.92,Bank Transfer,Islamabad
+329,2026-01-28,Entertainment,Events,9105.1,Bank Transfer,Islamabad
+289,2026-01-29,Education,Courses,16967.68,Cash,Islamabad
+454,2026-01-29,Health,Fitness,2784.78,Cash,Lahore
+625,2026-01-29,Education,Courses,6620.42,Bank Transfer,Islamabad
+918,2026-01-29,Health,Fitness,2247.0,Cash,Lahore
+1342,2026-01-29,Shopping,Clothing,7096.97,Card,Lahore
+242,2026-01-31,Transport,Public Transport,275.52,Bank Transfer,Karachi
+826,2026-01-31,Entertainment,Events,6672.05,Card,Islamabad
+786,2026-02-01,Entertainment,Events,9250.25,Cash,Dubai
+841,2026-02-01,Travel,Travel Transport,1971.67,Cash,Lahore
+990,2026-02-01,Health,Doctor,4376.43,Cash,Islamabad
+506,2026-02-02,Health,Doctor,2998.49,Bank Transfer,Islamabad
+790,2026-02-02,Travel,Travel Food,2055.11,Cash,Dubai
+825,2026-02-02,Bills,Phone Bill,3749.61,Card,Islamabad
+963,2026-02-03,Transport,Public Transport,379.87,Online,Karachi
+1336,2026-02-03,Entertainment,Games,8640.46,Bank Transfer,Rawalpindi
+751,2026-02-04,Bills,Internet,3684.37,Bank Transfer,Rawalpindi
+961,2026-02-04,Transport,Public Transport,374.37,Online,Lahore
+942,2026-02-05,Travel,Flight,74075.93,Cash,Dubai
+1431,2026-02-06,Bills,Internet,6639.03,Online,Islamabad
+436,2026-02-07,Travel,Flight,62082.85,Bank Transfer,Rawalpindi
+485,2026-02-07,Health,Dental,8387.45,Cash,Karachi
+952,2026-02-07,Shopping,Online Shopping,5016.67,Online,Lahore
+1032,2026-02-08,Entertainment,Events,5187.86,Card,Islamabad
+1434,2026-02-08,Transport,Fuel,4765.35,Card,Islamabad
+713,2026-02-09,Education,Courses,9098.72,Card,Karachi
+746,2026-02-09,Bills,Utilities,7830.31,Bank Transfer,Dubai
+1143,2026-02-09,Health,Doctor,8635.13,Card,Dubai
+1488,2026-02-09,Education,Stationery,2225.74,Cash,Lahore
+159,2026-02-10,Bills,Electricity,12701.01,Card,Dubai
+446,2026-02-10,Bills,Internet,4115.24,Card,Karachi
+546,2026-02-10,Health,Doctor,2057.32,Online,Islamabad
+875,2026-02-10,Food,Grocery,3180.37,Bank Transfer,Rawalpindi
+1072,2026-02-10,Travel,Hotel,13221.71,Online,Rawalpindi
+1312,2026-02-10,Entertainment,Streaming,1213.17,Online,Dubai
+166,2026-02-11,Health,Pharmacy,3787.19,Card,Islamabad
+209,2026-02-11,Food,Coffee,226.06,Card,Islamabad
+322,2026-02-11,Travel,Flight,97567.88,Bank Transfer,Karachi
+383,2026-02-11,Health,Pharmacy,3074.44,Online,Rawalpindi
+555,2026-02-11,Transport,Ride Share,872.6,Online,Dubai
+148,2026-02-12,Transport,Public Transport,571.76,Online,Islamabad
+1033,2026-02-12,Shopping,Online Shopping,8696.55,Bank Transfer,Karachi
+1140,2026-02-12,Entertainment,Events,8585.71,Bank Transfer,Karachi
+27,2026-02-13,Health,Fitness,5386.93,Online,Karachi
+813,2026-02-13,Bills,Electricity,10522.39,Online,Lahore
+258,2026-02-14,Travel,Travel Transport,2826.12,Cash,Rawalpindi
+805,2026-02-14,Entertainment,Movies,1607.76,Online,Lahore
+199,2026-02-15,Transport,Fuel,6761.06,Card,Karachi
+403,2026-02-15,Education,Books,5088.68,Bank Transfer,Dubai
+601,2026-02-15,Education,Education Fees,17414.88,Online,Rawalpindi
+734,2026-02-15,Bills,Utilities,3856.52,Cash,Dubai
+1127,2026-02-15,Entertainment,Streaming,1094.13,Card,Karachi
+1133,2026-02-15,Education,Stationery,692.84,Bank Transfer,Lahore
+132,2026-02-18,Food,Coffee,517.53,Cash,Dubai
+578,2026-02-18,Education,Education Fees,20014.59,Card,Dubai
+1322,2026-02-18,Education,Books,3375.73,Cash,Rawalpindi
+414,2026-02-19,Shopping,Electronics,40824.08,Online,Rawalpindi
+567,2026-02-19,Education,Books,3890.55,Cash,Islamabad
+672,2026-02-19,Entertainment,Movies,1363.6,Online,Lahore
+327,2026-02-20,Education,Stationery,551.94,Card,Lahore
+682,2026-02-20,Health,Dental,8755.11,Online,Dubai
+38,2026-02-21,Travel,Travel Transport,2334.81,Online,Karachi
+716,2026-02-21,Transport,Ride Share,1184.19,Bank Transfer,Karachi
+1251,2026-02-21,Travel,Hotel,35029.13,Cash,Lahore
+136,2026-02-22,Transport,Fuel,9440.01,Card,Rawalpindi
+129,2026-02-23,Health,Dental,10984.14,Cash,Islamabad
+170,2026-02-23,Transport,Fuel,3345.11,Card,Islamabad
+225,2026-02-23,Health,Pharmacy,3779.51,Bank Transfer,Karachi
+401,2026-02-23,Travel,Flight,66050.22,Cash,Islamabad
+701,2026-02-23,Health,Pharmacy,1486.61,Bank Transfer,Islamabad
+1227,2026-02-23,Transport,Ride Share,1017.82,Bank Transfer,Karachi
+559,2026-02-24,Food,Restaurant,1841.71,Cash,Lahore
+860,2026-02-24,Travel,Hotel,25887.22,Card,Lahore
+691,2026-02-25,Shopping,Electronics,39894.34,Bank Transfer,Lahore
+130,2026-02-26,Travel,Travel Food,5564.0,Online,Dubai
+307,2026-02-27,Entertainment,Events,6615.3,Online,Karachi
+1106,2026-02-27,Bills,Phone Bill,2980.7,Bank Transfer,Dubai
+1246,2026-02-27,Health,Dental,7594.92,Card,Karachi
+535,2026-02-28,Entertainment,Movies,1822.87,Online,Dubai
+703,2026-02-28,Travel,Flight,49294.63,Online,Islamabad
+904,2026-02-28,Entertainment,Games,5724.44,Online,Rawalpindi
+1205,2026-02-28,Education,Education Fees,41620.47,Bank Transfer,Karachi
+1260,2026-02-28,Travel,Travel Transport,3674.99,Card,Dubai
+75,2026-03-01,Entertainment,Events,6552.9,Cash,Lahore
+83,2026-03-01,Education,Stationery,1335.79,Online,Karachi
+542,2026-03-01,Shopping,Electronics,36986.53,Card,Karachi
+872,2026-03-01,Education,Books,2805.64,Cash,Karachi
+1184,2026-03-02,Travel,Travel Food,1916.27,Online,Rawalpindi
+1193,2026-03-02,Travel,Travel Food,3307.25,Card,Karachi
+117,2026-03-03,Entertainment,Events,6194.13,Online,Islamabad
+249,2026-03-03,Shopping,Clothing,8335.29,Bank Transfer,Karachi
+283,2026-03-03,Food,Coffee,903.16,Bank Transfer,Islamabad
+1173,2026-03-03,Bills,Phone Bill,2819.32,Online,Rawalpindi
+1232,2026-03-04,Travel,Travel Food,4967.64,Bank Transfer,Rawalpindi
+979,2026-03-05,Food,Grocery,3165.74,Card,Dubai
+86,2026-03-06,Entertainment,Events,4470.14,Online,Rawalpindi
+459,2026-03-07,Health,Doctor,6280.08,Card,Karachi
+571,2026-03-07,Health,Dental,6496.94,Bank Transfer,Rawalpindi
+91,2026-03-08,Bills,Electricity,11413.7,Card,Islamabad
+393,2026-03-08,Bills,Utilities,7846.46,Bank Transfer,Islamabad
+602,2026-03-08,Shopping,Clothing,4678.26,Card,Lahore
+737,2026-03-08,Travel,Flight,114064.46,Bank Transfer,Rawalpindi
+1230,2026-03-08,Food,Fast Food,1864.09,Cash,Lahore
+18,2026-03-09,Transport,Parking,632.56,Online,Dubai
+1165,2026-03-09,Health,Doctor,4255.18,Online,Karachi
+1432,2026-03-09,Travel,Travel Food,6241.0,Online,Karachi
+33,2026-03-10,Education,Education Fees,35910.07,Card,Karachi
+194,2026-03-10,Food,Fast Food,1293.14,Bank Transfer,Karachi
+561,2026-03-10,Education,Stationery,1190.06,Cash,Rawalpindi
+1115,2026-03-10,Entertainment,Games,2902.33,Cash,Islamabad
+203,2026-03-11,Travel,Travel Transport,3129.11,Cash,Dubai
+1066,2026-03-11,Entertainment,Games,4815.86,Bank Transfer,Karachi
+1473,2026-03-11,Shopping,Online Shopping,10448.17,Card,Rawalpindi
+921,2026-03-12,Shopping,Online Shopping,10617.35,Online,Rawalpindi
+191,2026-03-14,Health,Dental,7582.89,Cash,Rawalpindi
+866,2026-03-14,Transport,Public Transport,367.92,Card,Islamabad
+16,2026-03-15,Education,Stationery,818.65,Cash,Dubai
+89,2026-03-15,Shopping,Online Shopping,6258.92,Bank Transfer,Rawalpindi
+432,2026-03-15,Shopping,Electronics,49694.02,Cash,Karachi
+1413,2026-03-15,Travel,Hotel,30316.93,Bank Transfer,Dubai
+118,2026-03-16,Bills,Electricity,13336.56,Card,Lahore
+210,2026-03-16,Education,Education Fees,17814.8,Online,Karachi
+1495,2026-03-16,Entertainment,Events,8563.83,Card,Dubai
+260,2026-03-17,Shopping,Home Supplies,3358.64,Card,Islamabad
+1082,2026-03-17,Transport,Parking,682.02,Online,Rawalpindi
+67,2026-03-18,Transport,Public Transport,435.38,Card,Islamabad
+294,2026-03-18,Shopping,Home Supplies,5792.09,Online,Islamabad
+525,2026-03-18,Shopping,Online Shopping,5875.6,Card,Islamabad
+916,2026-03-19,Education,Stationery,1678.91,Online,Rawalpindi
+1271,2026-03-19,Education,Stationery,635.37,Online,Rawalpindi
+99,2026-03-20,Health,Fitness,4245.63,Online,Lahore
+653,2026-03-20,Health,Pharmacy,2220.94,Card,Dubai
+263,2026-03-22,Bills,Electricity,6188.98,Online,Islamabad
+539,2026-03-22,Entertainment,Games,8198.36,Bank Transfer,Islamabad
+650,2026-03-22,Transport,Fuel,3111.64,Bank Transfer,Karachi
+917,2026-03-22,Entertainment,Games,5236.18,Cash,Dubai
+1417,2026-03-22,Food,Grocery,9399.94,Bank Transfer,Rawalpindi
+989,2026-03-23,Shopping,Electronics,62454.59,Online,Lahore
+1180,2026-03-23,Entertainment,Movies,1081.07,Online,Lahore
+1389,2026-03-23,Bills,Phone Bill,2623.17,Online,Islamabad
+212,2026-03-24,Transport,Fuel,5219.3,Online,Dubai
+464,2026-03-24,Entertainment,Movies,1023.28,Online,Karachi
+1421,2026-03-24,Entertainment,Games,3962.79,Bank Transfer,Karachi
+520,2026-03-25,Education,Courses,14666.27,Online,Rawalpindi
+1198,2026-03-25,Travel,Hotel,43921.67,Card,Dubai
+710,2026-03-26,Food,Grocery,8227.87,Bank Transfer,Lahore
+1202,2026-03-26,Education,Books,2465.64,Online,Islamabad
+1486,2026-03-26,Travel,Flight,35779.61,Online,Karachi
+146,2026-03-27,Transport,Parking,285.22,Cash,Rawalpindi
+396,2026-03-27,Health,Fitness,4813.02,Cash,Islamabad
+533,2026-03-27,Travel,Travel Food,3265.21,Bank Transfer,Dubai
+1116,2026-03-27,Education,Stationery,2088.86,Card,Rawalpindi
+162,2026-03-28,Food,Fast Food,1512.3,Card,Islamabad
+54,2026-03-29,Education,Books,1827.41,Cash,Dubai
+156,2026-03-29,Health,Dental,10567.46,Online,Islamabad
+218,2026-03-29,Bills,Phone Bill,2830.47,Bank Transfer,Dubai
+818,2026-03-29,Shopping,Online Shopping,3512.74,Cash,Lahore
+1055,2026-03-29,Health,Doctor,5886.74,Card,Karachi
+1317,2026-03-29,Entertainment,Streaming,1489.37,Bank Transfer,Karachi
+453,2026-03-30,Entertainment,Movies,1954.28,Cash,Karachi
+636,2026-03-30,Entertainment,Streaming,1660.18,Cash,Lahore
+771,2026-03-30,Entertainment,Movies,972.32,Card,Dubai
+1206,2026-03-30,Shopping,Clothing,10560.17,Card,Karachi
+262,2026-03-31,Health,Fitness,1653.41,Bank Transfer,Dubai
+267,2026-03-31,Transport,Fuel,5634.58,Online,Islamabad
+495,2026-03-31,Shopping,Clothing,13686.46,Bank Transfer,Karachi
+612,2026-03-31,Travel,Hotel,35539.95,Online,Islamabad
+1240,2026-03-31,Transport,Public Transport,340.6,Card,Rawalpindi
+448,2026-04-01,Food,Restaurant,2477.57,Card,Rawalpindi
+1287,2026-04-01,Shopping,Electronics,18117.98,Card,Karachi
+1442,2026-04-01,Health,Pharmacy,1344.83,Card,Karachi
+79,2026-04-02,Shopping,Online Shopping,9772.26,Cash,Islamabad
+556,2026-04-02,Shopping,Online Shopping,11801.65,Bank Transfer,Islamabad
+896,2026-04-02,Health,Dental,7173.2,Cash,Dubai
+1164,2026-04-02,Education,Education Fees,17338.06,Online,Karachi
+1211,2026-04-02,Entertainment,Events,8466.02,Online,Lahore
+1222,2026-04-02,Transport,Public Transport,462.34,Online,Dubai
+705,2026-04-03,Shopping,Clothing,5543.28,Online,Islamabad
+1279,2026-04-03,Transport,Ride Share,2202.05,Card,Rawalpindi
+4,2026-04-05,Bills,Electricity,15832.08,Cash,Rawalpindi
+217,2026-04-05,Health,Dental,5303.45,Card,Rawalpindi
+1234,2026-04-05,Shopping,Home Supplies,2002.33,Online,Rawalpindi
+1273,2026-04-05,Health,Pharmacy,2228.25,Bank Transfer,Karachi
+821,2026-04-06,Travel,Hotel,18789.04,Cash,Lahore
+977,2026-04-07,Education,Courses,16094.11,Card,Dubai
+271,2026-04-08,Shopping,Online Shopping,23925.6,Bank Transfer,Islamabad
+488,2026-04-08,Bills,Utilities,4360.21,Card,Karachi
+522,2026-04-08,Transport,Ride Share,932.49,Bank Transfer,Islamabad
+1129,2026-04-08,Travel,Flight,43367.57,Bank Transfer,Islamabad
+1253,2026-04-08,Food,Restaurant,2913.34,Bank Transfer,Lahore
+1331,2026-04-08,Bills,Electricity,7819.89,Cash,Karachi
+1410,2026-04-08,Travel,Travel Transport,4290.45,Card,Islamabad
+617,2026-04-09,Transport,Ride Share,1584.18,Cash,Karachi
+626,2026-04-09,Shopping,Electronics,29930.86,Bank Transfer,Dubai
+633,2026-04-09,Transport,Fuel,6770.1,Online,Lahore
+800,2026-04-09,Travel,Travel Transport,555.51,Card,Islamabad
+108,2026-04-10,Bills,Phone Bill,2061.27,Card,Lahore
+172,2026-04-10,Health,Fitness,3729.5,Cash,Rawalpindi
+465,2026-04-10,Food,Fast Food,1396.76,Cash,Karachi
+900,2026-04-10,Travel,Hotel,11087.86,Card,Islamabad
+1270,2026-04-10,Food,Coffee,666.15,Card,Islamabad
+1384,2026-04-10,Bills,Utilities,6104.48,Online,Karachi
+324,2026-04-11,Travel,Flight,85615.59,Online,Islamabad
+1220,2026-04-11,Transport,Fuel,6582.61,Online,Karachi
+1294,2026-04-11,Food,Coffee,410.25,Card,Lahore
+898,2026-04-12,Bills,Utilities,5517.09,Cash,Lahore
+1392,2026-04-12,Shopping,Home Supplies,3000.43,Cash,Karachi
+157,2026-04-13,Bills,Internet,6904.43,Online,Karachi
+1456,2026-04-13,Transport,Public Transport,462.18,Cash,Dubai
+46,2026-04-14,Health,Pharmacy,591.11,Card,Karachi
+292,2026-04-14,Entertainment,Games,5975.13,Card,Karachi
+621,2026-04-14,Entertainment,Streaming,847.42,Online,Karachi
+1012,2026-04-14,Transport,Ride Share,1042.83,Cash,Islamabad
+1225,2026-04-14,Shopping,Clothing,10261.15,Online,Rawalpindi
+1435,2026-04-14,Shopping,Electronics,31188.82,Online,Islamabad
+15,2026-04-15,Shopping,Home Supplies,2378.42,Bank Transfer,Dubai
+483,2026-04-15,Transport,Ride Share,1187.18,Online,Karachi
+1026,2026-04-15,Health,Doctor,1312.08,Bank Transfer,Islamabad
+1083,2026-04-16,Food,Restaurant,1141.37,Bank Transfer,Lahore
+1481,2026-04-17,Health,Dental,7382.01,Card,Islamabad
+1349,2026-04-18,Transport,Ride Share,1245.55,Cash,Rawalpindi
+12,2026-04-19,Education,Stationery,2748.13,Cash,Islamabad
+36,2026-04-19,Entertainment,Movies,1233.59,Card,Karachi
+1132,2026-04-19,Entertainment,Streaming,1572.44,Cash,Karachi
+1172,2026-04-19,Shopping,Electronics,54104.07,Card,Karachi
+1263,2026-04-19,Health,Doctor,4308.58,Cash,Karachi
+355,2026-04-20,Food,Coffee,1040.09,Cash,Rawalpindi
+768,2026-04-20,Food,Fast Food,587.22,Cash,Karachi
+1002,2026-04-20,Shopping,Online Shopping,6307.02,Bank Transfer,Rawalpindi
+597,2026-04-21,Food,Restaurant,2915.6,Card,Islamabad
+674,2026-04-21,Transport,Parking,620.2,Card,Lahore
+331,2026-04-22,Bills,Internet,4055.68,Bank Transfer,Karachi
+487,2026-04-23,Health,Fitness,2103.19,Bank Transfer,Lahore
+1067,2026-04-23,Transport,Fuel,5481.21,Bank Transfer,Islamabad
+88,2026-04-24,Shopping,Clothing,13728.72,Card,Karachi
+244,2026-04-26,Travel,Hotel,38284.21,Card,Islamabad
+967,2026-04-28,Food,Grocery,6666.85,Cash,Karachi
+1124,2026-04-28,Education,Stationery,1691.84,Card,Lahore
+318,2026-04-29,Transport,Fuel,2785.67,Cash,Rawalpindi
+926,2026-04-29,Transport,Public Transport,430.51,Bank Transfer,Dubai
+32,2026-04-30,Education,Courses,4506.53,Online,Islamabad
+72,2026-04-30,Shopping,Clothing,6151.28,Bank Transfer,Karachi
+256,2026-04-30,Bills,Electricity,15727.83,Cash,Islamabad
+930,2026-04-30,Shopping,Clothing,9792.19,Bank Transfer,Dubai
+995,2026-04-30,Travel,Travel Food,1573.54,Online,Lahore
+1406,2026-04-30,Health,Fitness,2853.12,Bank Transfer,Islamabad
+304,2026-05-01,Bills,Internet,4984.56,Online,Lahore
+876,2026-05-01,Food,Grocery,4973.48,Online,Dubai
+1027,2026-05-01,Bills,Internet,5290.56,Online,Islamabad
+1181,2026-05-01,Education,Books,1854.34,Cash,Rawalpindi
+536,2026-05-02,Entertainment,Events,5052.84,Online,Karachi
+1233,2026-05-02,Shopping,Electronics,34020.62,Online,Rawalpindi
+1337,2026-05-02,Shopping,Home Supplies,4822.67,Online,Islamabad
+183,2026-05-03,Travel,Travel Food,4671.96,Card,Rawalpindi
+222,2026-05-03,Shopping,Clothing,7621.73,Bank Transfer,Karachi
+319,2026-05-03,Travel,Flight,75982.07,Bank Transfer,Islamabad
+753,2026-05-03,Travel,Travel Food,4868.84,Cash,Dubai
+976,2026-05-03,Shopping,Electronics,18412.43,Bank Transfer,Dubai
+840,2026-05-04,Shopping,Online Shopping,13980.46,Bank Transfer,Lahore
+315,2026-05-06,Entertainment,Games,8128.46,Bank Transfer,Dubai
+686,2026-05-06,Travel,Flight,63006.12,Online,Karachi
+901,2026-05-06,Travel,Flight,44518.6,Bank Transfer,Dubai
+1489,2026-05-06,Bills,Electricity,10796.6,Online,Lahore
+529,2026-05-07,Entertainment,Movies,669.78,Cash,Islamabad
+629,2026-05-07,Education,Stationery,2138.66,Online,Karachi
+1001,2026-05-07,Bills,Internet,4920.14,Card,Rawalpindi
+1157,2026-05-07,Travel,Travel Food,5135.23,Card,Islamabad
+1276,2026-05-07,Education,Books,3937.67,Bank Transfer,Islamabad
+755,2026-05-09,Entertainment,Movies,1232.15,Bank Transfer,Rawalpindi
+284,2026-05-10,Entertainment,Events,5042.78,Card,Karachi
+410,2026-05-10,Health,Fitness,1991.99,Online,Islamabad
+1310,2026-05-10,Travel,Travel Transport,2555.79,Online,Dubai
+142,2026-05-11,Health,Dental,9492.07,Online,Rawalpindi
+718,2026-05-11,Entertainment,Streaming,2165.89,Online,Rawalpindi
+1249,2026-05-11,Food,Coffee,660.65,Card,Islamabad
+442,2026-05-12,Health,Pharmacy,946.49,Online,Karachi
+827,2026-05-12,Transport,Fuel,4269.83,Online,Dubai
+1182,2026-05-12,Travel,Hotel,35702.56,Cash,Lahore
+25,2026-05-13,Transport,Fuel,3922.03,Online,Dubai
+31,2026-05-13,Entertainment,Games,7090.67,Online,Lahore
+665,2026-05-13,Travel,Travel Food,5269.79,Bank Transfer,Dubai
+1493,2026-05-13,Transport,Parking,542.39,Cash,Dubai
+907,2026-05-14,Transport,Parking,593.98,Card,Rawalpindi
+1177,2026-05-14,Bills,Phone Bill,3112.26,Online,Islamabad
+103,2026-05-15,Entertainment,Streaming,1736.95,Bank Transfer,Islamabad
+149,2026-05-15,Food,Restaurant,1287.6,Bank Transfer,Lahore
+605,2026-05-15,Transport,Parking,675.03,Card,Islamabad
+806,2026-05-15,Transport,Public Transport,171.61,Online,Karachi
+52,2026-05-16,Bills,Electricity,6536.71,Online,Islamabad
+366,2026-05-16,Travel,Travel Transport,2127.78,Bank Transfer,Lahore
+426,2026-05-16,Shopping,Clothing,8770.12,Cash,Islamabad
+531,2026-05-16,Bills,Electricity,13828.5,Online,Lahore
+1231,2026-05-16,Food,Restaurant,2034.29,Card,Karachi
+1332,2026-05-16,Food,Grocery,3214.58,Online,Islamabad
+1443,2026-05-16,Entertainment,Movies,1409.19,Online,Islamabad
+584,2026-05-17,Health,Doctor,2933.79,Online,Karachi
+829,2026-05-17,Education,Courses,2826.88,Bank Transfer,Islamabad
+844,2026-05-17,Health,Fitness,5293.03,Online,Rawalpindi
+1224,2026-05-17,Education,Courses,5219.23,Cash,Rawalpindi
+1464,2026-05-17,Transport,Public Transport,474.92,Bank Transfer,Dubai
+186,2026-05-18,Travel,Hotel,37881.05,Bank Transfer,Dubai
+1452,2026-05-18,Health,Dental,10148.75,Cash,Karachi
+764,2026-05-19,Entertainment,Streaming,647.39,Card,Dubai
+1084,2026-05-19,Education,Courses,6983.71,Online,Rawalpindi
+171,2026-05-20,Transport,Ride Share,864.09,Cash,Rawalpindi
+1152,2026-05-20,Transport,Fuel,3895.55,Card,Lahore
+17,2026-05-21,Transport,Ride Share,1804.28,Cash,Lahore
+274,2026-05-21,Food,Fast Food,1225.01,Bank Transfer,Rawalpindi
+595,2026-05-21,Shopping,Clothing,11426.02,Card,Karachi
+1344,2026-05-21,Education,Books,7564.47,Card,Karachi
+1136,2026-05-22,Education,Courses,8162.06,Cash,Dubai
+428,2026-05-23,Transport,Ride Share,902.53,Bank Transfer,Dubai
+999,2026-05-23,Entertainment,Movies,1372.37,Card,Rawalpindi
+1477,2026-05-23,Education,Courses,7572.79,Card,Islamabad
+160,2026-05-24,Bills,Internet,4606.47,Bank Transfer,Lahore
+497,2026-05-24,Food,Coffee,698.54,Cash,Islamabad
+1096,2026-05-24,Health,Doctor,5260.46,Bank Transfer,Rawalpindi
+259,2026-05-25,Health,Dental,12999.92,Online,Karachi
+870,2026-05-25,Travel,Flight,89611.22,Cash,Islamabad
+923,2026-05-26,Entertainment,Streaming,1197.39,Bank Transfer,Karachi
+1155,2026-05-26,Transport,Public Transport,159.68,Card,Rawalpindi
+1103,2026-05-27,Entertainment,Events,4834.62,Online,Dubai
+1505,2026-05-27,Travel,Hotel,145000.0,Card,Dubai
+21,2026-05-28,Shopping,Clothing,12962.05,Bank Transfer,Dubai
+1395,2026-05-28,Education,Stationery,1730.71,Card,Karachi
+164,2026-05-29,Bills,Internet,3707.07,Online,Islamabad
+237,2026-05-30,Education,Courses,13282.73,Cash,Islamabad
+537,2026-05-30,Shopping,Clothing,14846.1,Online,Lahore
+655,2026-05-30,Transport,Public Transport,525.8,Bank Transfer,Dubai
+810,2026-05-30,Entertainment,Games,2308.29,Online,Rawalpindi
+184,2026-05-31,Entertainment,Movies,1613.69,Bank Transfer,Rawalpindi
+695,2026-05-31,Transport,Ride Share,1156.76,Cash,Dubai
+223,2026-06-01,Shopping,Clothing,5845.75,Online,Rawalpindi
+586,2026-06-01,Shopping,Clothing,6857.26,Card,Rawalpindi
+811,2026-06-01,Transport,Fuel,5203.48,Online,Lahore
+1081,2026-06-01,Bills,Phone Bill,3518.52,Card,Karachi
+1345,2026-06-01,Health,Fitness,3227.5,Bank Transfer,Lahore
+1381,2026-06-02,Education,Courses,13332.67,Online,Karachi
+461,2026-06-03,Bills,Utilities,5235.64,Online,Karachi
+874,2026-06-03,Health,Pharmacy,1317.64,Bank Transfer,Islamabad
+884,2026-06-03,Food,Coffee,925.33,Cash,Lahore
+1346,2026-06-03,Food,Coffee,240.82,Online,Rawalpindi
+68,2026-06-04,Bills,Utilities,4686.48,Bank Transfer,Dubai
+195,2026-06-04,Entertainment,Games,6531.44,Cash,Karachi
+1189,2026-06-04,Entertainment,Streaming,2025.24,Online,Lahore
+1216,2026-06-04,Health,Pharmacy,958.97,Card,Rawalpindi
+1377,2026-06-04,Transport,Parking,921.53,Bank Transfer,Lahore
+273,2026-06-05,Entertainment,Movies,2293.07,Cash,Lahore
+1307,2026-06-05,Travel,Flight,73473.62,Online,Dubai
+63,2026-06-06,Education,Stationery,2393.43,Card,Islamabad
+337,2026-06-07,Travel,Hotel,21770.66,Online,Rawalpindi
+634,2026-06-08,Bills,Electricity,19938.52,Online,Rawalpindi
+1076,2026-06-08,Bills,Internet,5160.82,Card,Karachi
+1367,2026-06-08,Entertainment,Movies,1010.41,Card,Islamabad
+1458,2026-06-08,Shopping,Online Shopping,16326.02,Bank Transfer,Rawalpindi
+688,2026-06-09,Food,Grocery,1938.9,Bank Transfer,Lahore
+1315,2026-06-09,Health,Fitness,3228.24,Online,Rawalpindi
+240,2026-06-10,Shopping,Online Shopping,4678.03,Cash,Rawalpindi
+264,2026-06-10,Shopping,Clothing,4799.1,Online,Karachi
+717,2026-06-10,Bills,Phone Bill,3123.06,Online,Dubai
+1059,2026-06-10,Food,Coffee,341.6,Bank Transfer,Karachi
+1170,2026-06-10,Transport,Parking,654.87,Online,Dubai
+1185,2026-06-10,Travel,Flight,72376.86,Card,Rawalpindi
+1467,2026-06-10,Shopping,Electronics,18389.92,Bank Transfer,Karachi
+438,2026-06-12,Bills,Phone Bill,2493.63,Online,Islamabad
+985,2026-06-12,Transport,Ride Share,1895.33,Online,Dubai
+1093,2026-06-12,Education,Stationery,319.19,Online,Dubai
+1102,2026-06-12,Travel,Flight,89251.94,Cash,Dubai
+551,2026-06-13,Health,Pharmacy,2632.63,Cash,Karachi
+886,2026-06-13,Shopping,Electronics,45710.43,Online,Rawalpindi
+467,2026-06-14,Bills,Internet,3973.76,Bank Transfer,Karachi
+647,2026-06-14,Health,Fitness,3352.81,Bank Transfer,Lahore
+689,2026-06-14,Education,Books,5781.81,Bank Transfer,Karachi
+269,2026-06-15,Education,Books,2530.51,Bank Transfer,Rawalpindi
+279,2026-06-15,Shopping,Home Supplies,2539.82,Bank Transfer,Lahore
+1051,2026-06-15,Bills,Phone Bill,3403.71,Online,Islamabad
+300,2026-06-16,Travel,Flight,64093.79,Cash,Islamabad
+794,2026-06-16,Transport,Ride Share,1521.37,Online,Lahore
+847,2026-06-16,Education,Books,3767.61,Card,Lahore
+1309,2026-06-16,Travel,Flight,46628.56,Bank Transfer,Dubai
+541,2026-06-17,Travel,Hotel,32358.88,Online,Karachi
+1080,2026-06-17,Travel,Travel Transport,2283.37,Online,Rawalpindi
+1213,2026-06-17,Bills,Internet,3225.46,Bank Transfer,Dubai
+1219,2026-06-17,Entertainment,Movies,1108.67,Cash,Islamabad
+80,2026-06-18,Travel,Flight,44114.98,Card,Islamabad
+709,2026-06-18,Bills,Electricity,20650.64,Cash,Rawalpindi
+747,2026-06-18,Travel,Travel Transport,2123.35,Card,Lahore
+100,2026-06-19,Bills,Utilities,5482.46,Bank Transfer,Islamabad
+887,2026-06-19,Transport,Ride Share,950.45,Card,Dubai
+1238,2026-06-19,Entertainment,Events,6622.2,Card,Karachi
+607,2026-06-20,Transport,Parking,858.42,Cash,Rawalpindi
+630,2026-06-20,Transport,Ride Share,1031.14,Card,Karachi
+700,2026-06-20,Transport,Ride Share,1024.23,Cash,Islamabad
+788,2026-06-20,Transport,Ride Share,1742.16,Cash,Lahore
+1169,2026-06-20,Education,Stationery,1383.65,Card,Karachi
+1228,2026-06-20,Shopping,Clothing,6900.23,Bank Transfer,Islamabad
+224,2026-06-21,Shopping,Home Supplies,3616.26,Bank Transfer,Rawalpindi
+305,2026-06-21,Education,Courses,13370.81,Cash,Karachi
+583,2026-06-21,Health,Fitness,5295.97,Cash,Islamabad
+750,2026-06-21,Transport,Ride Share,896.39,Cash,Karachi
+815,2026-06-21,Entertainment,Games,2557.98,Online,Islamabad
+110,2026-06-22,Bills,Electricity,17362.88,Bank Transfer,Lahore
+1398,2026-06-22,Education,Stationery,1728.59,Cash,Lahore
+250,2026-06-23,Food,Coffee,882.9,Card,Rawalpindi
+276,2026-06-23,Education,Education Fees,33950.98,Card,Lahore
+229,2026-06-24,Transport,Parking,726.65,Card,Islamabad
+1167,2026-06-24,Transport,Public Transport,366.86,Card,Rawalpindi
+1433,2026-06-25,Bills,Phone Bill,3129.77,Cash,Dubai
+1475,2026-06-25,Food,Coffee,1032.48,Cash,Lahore
+49,2026-06-26,Food,Fast Food,2001.25,Card,Lahore
+868,2026-06-26,Transport,Parking,920.56,Bank Transfer,Rawalpindi
+697,2026-06-27,Education,Courses,16104.6,Online,Rawalpindi
+1018,2026-06-27,Travel,Travel Transport,2691.08,Cash,Islamabad
+42,2026-06-28,Shopping,Clothing,15227.25,Card,Lahore
+188,2026-06-28,Bills,Utilities,5735.07,Online,Karachi
+200,2026-06-28,Entertainment,Events,5951.62,Bank Transfer,Lahore
+762,2026-06-29,Bills,Utilities,3909.06,Card,Lahore
+911,2026-06-29,Bills,Utilities,6475.88,Online,Lahore
+1011,2026-06-29,Bills,Utilities,6514.67,Card,Lahore
+1239,2026-06-29,Shopping,Clothing,6078.25,Cash,Lahore
+1117,2026-07-01,Health,Pharmacy,2001.35,Online,Rawalpindi
+1218,2026-07-01,Entertainment,Streaming,1079.33,Cash,Rawalpindi
+440,2026-07-02,Education,Courses,17197.54,Cash,Rawalpindi
+880,2026-07-02,Shopping,Online Shopping,6343.13,Card,Islamabad
+1121,2026-07-02,Entertainment,Events,5710.28,Online,Islamabad
+1419,2026-07-02,Travel,Hotel,32734.37,Bank Transfer,Lahore
+702,2026-07-03,Education,Stationery,1466.98,Online,Lahore
+958,2026-07-03,Health,Dental,11145.51,Online,Karachi
+167,2026-07-04,Transport,Parking,623.47,Bank Transfer,Dubai
+462,2026-07-04,Shopping,Home Supplies,1953.44,Card,Dubai
+1364,2026-07-04,Shopping,Home Supplies,8368.46,Bank Transfer,Rawalpindi
+47,2026-07-05,Entertainment,Streaming,885.16,Bank Transfer,Karachi
+354,2026-07-05,Travel,Flight,85417.75,Bank Transfer,Lahore
+1383,2026-07-05,Shopping,Electronics,23667.25,Online,Islamabad
+742,2026-07-06,Shopping,Home Supplies,3526.59,Online,Rawalpindi
+1092,2026-07-06,Health,Pharmacy,2448.83,Online,Dubai
+232,2026-07-07,Food,Fast Food,1828.77,Cash,Dubai
+696,2026-07-07,Food,Coffee,584.04,Bank Transfer,Karachi
+37,2026-07-08,Food,Restaurant,3505.31,Cash,Lahore
+180,2026-07-08,Bills,Internet,3289.48,Card,Lahore
+729,2026-07-08,Food,Fast Food,1013.43,Cash,Rawalpindi
+1416,2026-07-08,Entertainment,Games,3677.76,Card,Karachi
+340,2026-07-09,Food,Restaurant,4068.41,Online,Karachi
+834,2026-07-09,Entertainment,Games,4241.13,Cash,Rawalpindi
+1289,2026-07-09,Shopping,Electronics,32412.82,Bank Transfer,Islamabad
+508,2026-07-10,Bills,Internet,4274.3,Card,Karachi
+643,2026-07-11,Education,Books,2866.85,Cash,Islamabad
+502,2026-07-12,Travel,Travel Food,7743.3,Bank Transfer,Rawalpindi
+680,2026-07-12,Shopping,Online Shopping,12915.65,Bank Transfer,Dubai
+2,2026-07-13,Transport,Parking,322.64,Card,Lahore
+822,2026-07-14,Bills,Utilities,6529.81,Cash,Karachi
+851,2026-07-14,Shopping,Online Shopping,9274.89,Online,Karachi
+861,2026-07-15,Bills,Internet,3026.66,Cash,Karachi
+732,2026-07-16,Bills,Internet,3735.94,Bank Transfer,Islamabad
+759,2026-07-16,Health,Doctor,4142.73,Online,Rawalpindi
+1415,2026-07-16,Travel,Flight,91324.07,Card,Rawalpindi
+134,2026-07-17,Shopping,Home Supplies,3957.55,Online,Karachi
+714,2026-07-17,Bills,Phone Bill,2258.27,Bank Transfer,Lahore
+492,2026-07-18,Entertainment,Movies,1255.28,Cash,Karachi
+706,2026-07-18,Food,Grocery,4373.1,Card,Karachi
+797,2026-07-18,Education,Stationery,1559.96,Online,Islamabad
+1455,2026-07-18,Bills,Phone Bill,2331.32,Cash,Rawalpindi
+139,2026-07-19,Shopping,Online Shopping,6390.72,Cash,Karachi
+275,2026-07-19,Shopping,Clothing,3738.74,Online,Rawalpindi
+278,2026-07-19,Shopping,Electronics,30785.32,Card,Karachi
+8,2026-07-20,Bills,Phone Bill,2793.44,Card,Karachi
+1120,2026-07-20,Education,Stationery,1521.41,Bank Transfer,Karachi
+296,2026-07-21,Bills,Electricity,10376.55,Online,Dubai
+994,2026-07-21,Entertainment,Movies,1198.34,Online,Lahore
+178,2026-07-22,Entertainment,Games,7964.31,Cash,Islamabad
+221,2026-07-22,Food,Coffee,931.31,Cash,Islamabad
+722,2026-07-22,Shopping,Online Shopping,7990.8,Cash,Dubai
+783,2026-07-22,Shopping,Clothing,8413.22,Online,Islamabad
+1040,2026-07-22,Travel,Hotel,33926.46,Bank Transfer,Dubai
+1070,2026-07-22,Education,Stationery,2698.24,Online,Lahore
+1250,2026-07-22,Transport,Fuel,6901.71,Cash,Islamabad
+105,2026-07-23,Entertainment,Events,7931.04,Online,Rawalpindi
+352,2026-07-24,Travel,Hotel,43643.83,Online,Dubai
+903,2026-07-24,Transport,Public Transport,393.99,Online,Dubai
+77,2026-07-25,Entertainment,Movies,1248.84,Online,Dubai
+614,2026-07-25,Food,Restaurant,2827.34,Bank Transfer,Dubai
+1068,2026-07-25,Food,Restaurant,1495.33,Card,Rawalpindi
+311,2026-07-26,Bills,Internet,6076.34,Bank Transfer,Islamabad
+78,2026-07-27,Health,Fitness,3831.4,Online,Dubai
+1053,2026-07-27,Transport,Parking,689.77,Card,Karachi
+1223,2026-07-27,Education,Stationery,1413.46,Online,Rawalpindi
+892,2026-07-28,Transport,Fuel,5695.63,Bank Transfer,Islamabad
+915,2026-07-28,Health,Pharmacy,4198.39,Card,Lahore
+169,2026-07-29,Health,Doctor,5466.91,Online,Islamabad
+197,2026-07-29,Food,Fast Food,452.59,Bank Transfer,Islamabad
+425,2026-07-30,Travel,Travel Transport,4426.52,Online,Rawalpindi
+615,2026-07-30,Entertainment,Events,12353.14,Bank Transfer,Karachi
+1196,2026-07-30,Entertainment,Events,4761.55,Bank Transfer,Islamabad
+1359,2026-07-30,Entertainment,Games,9608.06,Online,Rawalpindi
+1449,2026-07-30,Bills,Electricity,6386.21,Card,Dubai
+543,2026-07-31,Transport,Public Transport,583.77,Bank Transfer,Rawalpindi
